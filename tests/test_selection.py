@@ -1,5 +1,7 @@
+import pytest
+
 from models import Paper, PaperAnalysis, RankedPaper
-from selection import select_ranked_papers
+from selection import InsufficientCandidates, select_ranked_papers
 
 
 def candidates(count: int = 30) -> list[RankedPaper]:
@@ -34,10 +36,11 @@ def test_selects_exact_count_and_minimum_ai_ratio() -> None:
     assert [item.rank for item in selected] == list(range(1, 22))
 
 
-def test_short_pool_adds_honest_placeholders() -> None:
-    selected = select_ranked_papers(candidates(3), final_count=21, min_ai_ratio=0.70)
-
-    assert len(selected) == 21
-    assert selected[-1].analysis.confidence == "low"
-    assert selected[-1].paper.source == "placeholder"
-    assert selected[-1].analysis.total_score == 0
+def test_short_pool_cannot_create_a_fake_ranking() -> None:
+    with pytest.raises(InsufficientCandidates, match="at least 30 real candidates"):
+        select_ranked_papers(
+            candidates(29),
+            final_count=21,
+            min_ai_ratio=0.70,
+            min_ranked_candidates=30,
+        )

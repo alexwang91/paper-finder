@@ -1,6 +1,7 @@
 run:
   days_back: 7
   max_candidates: 200
+  min_ranked_candidates: 30
   final_count: 21
   min_ai_ratio: 0.7
 
@@ -108,4 +109,3 @@ keywords:
   - enterprise AI
   - personalization
   - recommendation
-

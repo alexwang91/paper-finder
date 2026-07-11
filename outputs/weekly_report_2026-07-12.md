@@ -2,7 +2,7 @@
 
 ## 1. Executive Summary
 
-This week's selected portfolio is led by agents_workflow: 6, vertical_ai: 3, multimodal: 3, infrastructure: 3, robotics: 3, general_ai: 2, non_ai_commercial: 1.
+This week's selected portfolio is led by agents_workflow: 7, vertical_ai: 3, infrastructure: 3, robotics: 3, multimodal: 2, general_ai: 2, non_ai_commercial: 1.
 Commercial priority is given to narrow workflow products, reusable AI skills, and fast customer validation.
 The strongest solo-founder opportunities combine accessible code, a specific buyer, and an MVP that can be tested in weeks.
 
@@ -12,25 +12,25 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 | ---: | --- | --- | ---: | --- | ---: | --- |
 | 1 | Contract Navigator Agent | agents_workflow | 73.48 | Turn the method into a narrow workflow copilot. | 81 | [Paper](https://example.com/papers/contract-navigator) |
 | 2 | Support Workflow Planner | agents_workflow | 72.86 | Turn the method into a narrow workflow copilot. | 81 | [Paper](https://example.com/papers/support-planner) |
-| 3 | Browser Operations Agent | agents_workflow | 63.50 | Turn the method into a narrow workflow copilot. | 77 | [Paper](https://example.com/papers/browser-ops) |
-| 4 | Code Migration Crew | agents_workflow | 63.39 | Turn the method into a narrow workflow copilot. | 77 | [Paper](https://example.com/papers/code-migration) |
-| 5 | Clinical Intake Copilot | vertical_ai | 62.38 | Build a domain-specific assistant with auditable workflows. | 77 | [Paper](https://example.com/papers/clinical-intake) |
-| 6 | Voice Triage Assistant | multimodal | 58.62 | Package the capability as a media-processing API and review tool. | 75 | [Paper](https://example.com/papers/voice-triage) |
-| 7 | Evaluation Trace Graph | infrastructure | 57.50 | Expose the method as an observability, evaluation, or deployment service. | 73 | [Paper](https://example.com/papers/eval-trace) |
-| 8 | Inference Cache Router | infrastructure | 57.15 | Expose the method as an observability, evaluation, or deployment service. | 75 | [Paper](https://example.com/papers/cache-router) |
-| 9 | Prompt Workflow Compiler | agents_workflow | 56.95 | Turn the method into a narrow workflow copilot. | 75 | [Paper](https://example.com/papers/prompt-compiler) |
-| 10 | Spreadsheet Audit Agent | agents_workflow | 56.92 | Turn the method into a narrow workflow copilot. | 73 | [Paper](https://example.com/papers/spreadsheet-audit) |
-| 11 | Warehouse Grasp Simulator | robotics | 56.81 | Offer simulation, testing, or monitoring before hardware deployment. | 73 | [Paper](https://example.com/papers/grasp-simulator) |
-| 12 | Personalized Commerce Ranker | general_ai | 54.75 | Validate one repeatable user job before expanding the product. | 73 | [Paper](https://example.com/papers/commerce-ranker) |
-| 13 | Private Edge Learning | infrastructure | 54.64 | Expose the method as an observability, evaluation, or deployment service. | 73 | [Paper](https://example.com/papers/edge-learning) |
-| 14 | Home Navigation Policy | robotics | 54.61 | Offer simulation, testing, or monitoring before hardware deployment. | 73 | [Paper](https://example.com/papers/home-navigation) |
-| 15 | Adaptive Tutor Planner | vertical_ai | 54.31 | Build a domain-specific assistant with auditable workflows. | 73 | [Paper](https://example.com/papers/tutor-planner) |
-| 16 | Legal Clause Risk Model | vertical_ai | 50.95 | Build a domain-specific assistant with auditable workflows. | 62 | [Paper](https://example.com/papers/clause-risk) |
-| 17 | Low Carbon Cement Discovery | non_ai_commercial | 45.45 | Translate the finding into a focused data or decision-support product. | 58 | [Paper](https://example.com/papers/cement-discovery) |
-| 18 | Retail Video Intelligence | multimodal | 44.05 | Package the capability as a media-processing API and review tool. | 58 | [Paper](https://example.com/papers/retail-video) |
-| 19 | Product Photo Composer | multimodal | 44.05 | Package the capability as a media-processing API and review tool. | 58 | [Paper](https://example.com/papers/photo-composer) |
-| 20 | Field Inspection Robot | robotics | 43.05 | Offer simulation, testing, or monitoring before hardware deployment. | 58 | [Paper](https://example.com/papers/field-inspection) |
-| 21 | Financial Memo Analyst | general_ai | 43.05 | Validate one repeatable user job before expanding the product. | 58 | [Paper](https://example.com/papers/memo-analyst) |
+| 3 | Procurement Negotiation Copilot | agents_workflow | 71.63 | Turn the method into a narrow workflow copilot. | 79 | [Paper](https://example.com/papers/procurement-copilot) |
+| 4 | Cyber Incident Timeline Agent | agents_workflow | 65.54 | Turn the method into a narrow workflow copilot. | 77 | [Paper](https://example.com/papers/cyber-timeline) |
+| 5 | Browser Operations Agent | agents_workflow | 63.50 | Turn the method into a narrow workflow copilot. | 77 | [Paper](https://example.com/papers/browser-ops) |
+| 6 | Code Migration Crew | agents_workflow | 63.39 | Turn the method into a narrow workflow copilot. | 77 | [Paper](https://example.com/papers/code-migration) |
+| 7 | Clinical Intake Copilot | vertical_ai | 62.38 | Build a domain-specific assistant with auditable workflows. | 77 | [Paper](https://example.com/papers/clinical-intake) |
+| 8 | LLM Cost Profile Observatory | infrastructure | 59.55 | Expose the method as an observability, evaluation, or deployment service. | 75 | [Paper](https://example.com/papers/cost-observatory) |
+| 9 | Robot Fleet Task Scheduler | robotics | 59.13 | Offer simulation, testing, or monitoring before hardware deployment. | 73 | [Paper](https://example.com/papers/fleet-scheduler) |
+| 10 | Voice Triage Assistant | multimodal | 58.62 | Package the capability as a media-processing API and review tool. | 75 | [Paper](https://example.com/papers/voice-triage) |
+| 11 | Evaluation Trace Graph | infrastructure | 57.50 | Expose the method as an observability, evaluation, or deployment service. | 73 | [Paper](https://example.com/papers/eval-trace) |
+| 12 | Inference Cache Router | infrastructure | 57.15 | Expose the method as an observability, evaluation, or deployment service. | 75 | [Paper](https://example.com/papers/cache-router) |
+| 13 | Prompt Workflow Compiler | agents_workflow | 56.95 | Turn the method into a narrow workflow copilot. | 75 | [Paper](https://example.com/papers/prompt-compiler) |
+| 14 | Warehouse Grasp Simulator | robotics | 56.81 | Offer simulation, testing, or monitoring before hardware deployment. | 73 | [Paper](https://example.com/papers/grasp-simulator) |
+| 15 | Personalized Commerce Ranker | general_ai | 54.75 | Validate one repeatable user job before expanding the product. | 73 | [Paper](https://example.com/papers/commerce-ranker) |
+| 16 | Home Navigation Policy | robotics | 54.61 | Offer simulation, testing, or monitoring before hardware deployment. | 73 | [Paper](https://example.com/papers/home-navigation) |
+| 17 | Crop Disease Field Assistant | multimodal | 54.56 | Package the capability as a media-processing API and review tool. | 73 | [Paper](https://example.com/papers/crop-disease) |
+| 18 | Adaptive Tutor Planner | vertical_ai | 54.31 | Build a domain-specific assistant with auditable workflows. | 73 | [Paper](https://example.com/papers/tutor-planner) |
+| 19 | Legal Clause Risk Model | vertical_ai | 50.95 | Build a domain-specific assistant with auditable workflows. | 62 | [Paper](https://example.com/papers/clause-risk) |
+| 20 | Supply Chain Disruption Signals | general_ai | 47.35 | Validate one repeatable user job before expanding the product. | 58 | [Paper](https://example.com/papers/supply-signals) |
+| 21 | Low Carbon Cement Discovery | non_ai_commercial | 45.45 | Translate the finding into a focused data or decision-support product. | 58 | [Paper](https://example.com/papers/cement-discovery) |
 
 ## 3. Detailed Analysis
 
@@ -62,7 +62,35 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 72.86/100 (medium confidence)
 
-### 3. Browser Operations Agent
+### 3. Procurement Negotiation Copilot
+
+- **Link:** https://example.com/papers/procurement-copilot
+- **One-sentence summary:** An enterprise AI agent for supplier comparison and procurement workflow automation.
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Procurement Negotiation Copilot to one customer workflow.
+- **Target customers:** operations teams; consultants; SMBs
+- **MVP suggestion:** Turn the method into a narrow workflow copilot.
+- **Monetization:** Usage-based subscription
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 71.63/100 (medium confidence)
+
+### 4. Cyber Incident Timeline Agent
+
+- **Link:** https://example.com/papers/cyber-timeline
+- **One-sentence summary:** A cybersecurity AI agent that reconstructs incidents from enterprise logs.
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Cyber Incident Timeline Agent to one customer workflow.
+- **Target customers:** operations teams; consultants; SMBs
+- **MVP suggestion:** Turn the method into a narrow workflow copilot.
+- **Monetization:** Usage-based subscription
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 65.54/100 (medium confidence)
+
+### 5. Browser Operations Agent
 
 - **Link:** https://example.com/papers/browser-ops
 - **One-sentence summary:** A workflow automation agent that completes repetitive browser tasks.
@@ -76,7 +104,7 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 63.50/100 (medium confidence)
 
-### 4. Code Migration Crew
+### 6. Code Migration Crew
 
 - **Link:** https://example.com/papers/code-migration
 - **One-sentence summary:** A multi-agent software engineering workflow for API migrations.
@@ -90,7 +118,7 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 63.39/100 (medium confidence)
 
-### 5. Clinical Intake Copilot
+### 7. Clinical Intake Copilot
 
 - **Link:** https://example.com/papers/clinical-intake
 - **One-sentence summary:** Medical AI for structured patient intake and document review.
@@ -104,7 +132,35 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 62.38/100 (medium confidence)
 
-### 6. Voice Triage Assistant
+### 8. LLM Cost Profile Observatory
+
+- **Link:** https://example.com/papers/cost-observatory
+- **One-sentence summary:** Developer infrastructure for tracing model quality, latency and API cost.
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：AI 开发者基础设施服务。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies LLM Cost Profile Observatory to one customer workflow.
+- **Target customers:** AI engineers; product teams
+- **MVP suggestion:** Expose the method as an observability, evaluation, or deployment service.
+- **Monetization:** Tiered developer plans
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 59.55/100 (medium confidence)
+
+### 9. Robot Fleet Task Scheduler
+
+- **Link:** https://example.com/papers/fleet-scheduler
+- **One-sentence summary:** A robotics framework for coordinating embodied AI fleets in small warehouses.
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：机器人仿真与评测工具。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Robot Fleet Task Scheduler to one customer workflow.
+- **Target customers:** robotics labs; automation teams
+- **MVP suggestion:** Offer simulation, testing, or monitoring before hardware deployment.
+- **Monetization:** Developer subscription
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 59.13/100 (medium confidence)
+
+### 10. Voice Triage Assistant
 
 - **Link:** https://example.com/papers/voice-triage
 - **One-sentence summary:** A speech AI system for routing calls and summarizing customer needs.
@@ -118,7 +174,7 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 58.62/100 (medium confidence)
 
-### 7. Evaluation Trace Graph
+### 11. Evaluation Trace Graph
 
 - **Link:** https://example.com/papers/eval-trace
 - **One-sentence summary:** A developer benchmark for tracing and evaluating LLM applications.
@@ -132,7 +188,7 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 57.50/100 (medium confidence)
 
-### 8. Inference Cache Router
+### 12. Inference Cache Router
 
 - **Link:** https://example.com/papers/cache-router
 - **One-sentence summary:** AI inference infrastructure that reduces latency and API cost.
@@ -146,7 +202,7 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 57.15/100 (medium confidence)
 
-### 9. Prompt Workflow Compiler
+### 13. Prompt Workflow Compiler
 
 - **Link:** https://example.com/papers/prompt-compiler
 - **One-sentence summary:** A compiler for reliable AI workflow deployment and testing.
@@ -160,21 +216,7 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 56.95/100 (medium confidence)
 
-### 10. Spreadsheet Audit Agent
-
-- **Link:** https://example.com/papers/spreadsheet-audit
-- **One-sentence summary:** An AI agent benchmark for finding errors in financial spreadsheets.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Spreadsheet Audit Agent to one customer workflow.
-- **Target customers:** operations teams; consultants; SMBs
-- **MVP suggestion:** Turn the method into a narrow workflow copilot.
-- **Monetization:** Usage-based subscription
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 56.92/100 (medium confidence)
-
-### 11. Warehouse Grasp Simulator
+### 14. Warehouse Grasp Simulator
 
 - **Link:** https://example.com/papers/grasp-simulator
 - **One-sentence summary:** A robotics benchmark for embodied manipulation in warehouses.
@@ -188,7 +230,7 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 56.81/100 (medium confidence)
 
-### 12. Personalized Commerce Ranker
+### 15. Personalized Commerce Ranker
 
 - **Link:** https://example.com/papers/commerce-ranker
 - **One-sentence summary:** A recommendation learning model for small e-commerce catalogs.
@@ -202,21 +244,7 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 54.75/100 (medium confidence)
 
-### 13. Private Edge Learning
-
-- **Link:** https://example.com/papers/edge-learning
-- **One-sentence summary:** An edge AI learning method for privacy-preserving IoT applications.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：AI 开发者基础设施服务。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Private Edge Learning to one customer workflow.
-- **Target customers:** AI engineers; product teams
-- **MVP suggestion:** Expose the method as an observability, evaluation, or deployment service.
-- **Monetization:** Tiered developer plans
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 54.64/100 (medium confidence)
-
-### 14. Home Navigation Policy
+### 16. Home Navigation Policy
 
 - **Link:** https://example.com/papers/home-navigation
 - **One-sentence summary:** A robotics method for safe household navigation with language instructions.
@@ -230,7 +258,21 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 54.61/100 (medium confidence)
 
-### 15. Adaptive Tutor Planner
+### 17. Crop Disease Field Assistant
+
+- **Link:** https://example.com/papers/crop-disease
+- **One-sentence summary:** A vision language model for agriculture disease identification on edge devices.
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：多模态内容处理 API。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Crop Disease Field Assistant to one customer workflow.
+- **Target customers:** content teams; e-commerce sellers
+- **MVP suggestion:** Package the capability as a media-processing API and review tool.
+- **Monetization:** API credits plus team plans
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 54.56/100 (medium confidence)
+
+### 18. Adaptive Tutor Planner
 
 - **Link:** https://example.com/papers/tutor-planner
 - **One-sentence summary:** Education AI that personalizes lesson plans from student progress.
@@ -244,7 +286,7 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 54.31/100 (medium confidence)
 
-### 16. Legal Clause Risk Model
+### 19. Legal Clause Risk Model
 
 - **Link:** https://example.com/papers/clause-risk
 - **One-sentence summary:** Legal AI that detects risky clauses in enterprise contracts.
@@ -258,7 +300,21 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 50.95/100 (medium confidence)
 
-### 17. Low Carbon Cement Discovery
+### 20. Supply Chain Disruption Signals
+
+- **Link:** https://example.com/papers/supply-signals
+- **One-sentence summary:** A new dataset and recommendation model for supplier risk and logistics planning.
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：窄场景 AI 效率工具。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Supply Chain Disruption Signals to one customer workflow.
+- **Target customers:** knowledge workers; small teams
+- **MVP suggestion:** Validate one repeatable user job before expanding the product.
+- **Monetization:** Freemium SaaS
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 47.35/100 (low confidence)
+
+### 21. Low Carbon Cement Discovery
 
 - **Link:** https://example.com/papers/cement-discovery
 - **One-sentence summary:** A material discovery dataset for commercially viable low-carbon cement.
@@ -271,62 +327,6 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Monetization:** Report and subscription sales
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 45.45/100 (low confidence)
-
-### 18. Retail Video Intelligence
-
-- **Link:** https://example.com/papers/retail-video
-- **One-sentence summary:** A multimodal video model for retail shelf and queue analysis.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：多模态内容处理 API。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Retail Video Intelligence to one customer workflow.
-- **Target customers:** content teams; e-commerce sellers
-- **MVP suggestion:** Package the capability as a media-processing API and review tool.
-- **Monetization:** API credits plus team plans
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 44.05/100 (low confidence)
-
-### 19. Product Photo Composer
-
-- **Link:** https://example.com/papers/photo-composer
-- **One-sentence summary:** A diffusion model for controllable e-commerce product image generation.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：多模态内容处理 API。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Product Photo Composer to one customer workflow.
-- **Target customers:** content teams; e-commerce sellers
-- **MVP suggestion:** Package the capability as a media-processing API and review tool.
-- **Monetization:** API credits plus team plans
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 44.05/100 (low confidence)
-
-### 20. Field Inspection Robot
-
-- **Link:** https://example.com/papers/field-inspection
-- **One-sentence summary:** An embodied AI system for industrial inspection and navigation.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：机器人仿真与评测工具。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Field Inspection Robot to one customer workflow.
-- **Target customers:** robotics labs; automation teams
-- **MVP suggestion:** Offer simulation, testing, or monitoring before hardware deployment.
-- **Monetization:** Developer subscription
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 43.05/100 (low confidence)
-
-### 21. Financial Memo Analyst
-
-- **Link:** https://example.com/papers/memo-analyst
-- **One-sentence summary:** Financial AI for evidence-linked investment memo generation.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：窄场景 AI 效率工具。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Financial Memo Analyst to one customer workflow.
-- **Target customers:** knowledge workers; small teams
-- **MVP suggestion:** Validate one repeatable user job before expanding the product.
-- **Monetization:** Freemium SaaS
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 43.05/100 (low confidence)
 
 ## 4. Top 5 Solo Founder Opportunities
 
@@ -346,7 +346,7 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Pricing:** Usage-based subscription
 - **30-day plan:** Week 1 interviews; Week 2 working demo; Week 3 paid pilots; Week 4 measure retention and decide whether to deepen the niche.
 
-### 3. Browser Operations Agent
+### 3. Procurement Negotiation Copilot
 
 - **Why suitable:** Selected by deterministic commercial and feasibility signals.
 - **MVP:** Turn the method into a narrow workflow copilot.
@@ -354,7 +354,7 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Pricing:** Usage-based subscription
 - **30-day plan:** Week 1 interviews; Week 2 working demo; Week 3 paid pilots; Week 4 measure retention and decide whether to deepen the niche.
 
-### 4. Code Migration Crew
+### 4. Cyber Incident Timeline Agent
 
 - **Why suitable:** Selected by deterministic commercial and feasibility signals.
 - **MVP:** Turn the method into a narrow workflow copilot.
@@ -362,12 +362,12 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Pricing:** Usage-based subscription
 - **30-day plan:** Week 1 interviews; Week 2 working demo; Week 3 paid pilots; Week 4 measure retention and decide whether to deepen the niche.
 
-### 5. Clinical Intake Copilot
+### 5. Browser Operations Agent
 
 - **Why suitable:** Selected by deterministic commercial and feasibility signals.
-- **MVP:** Build a domain-specific assistant with auditable workflows.
+- **MVP:** Turn the method into a narrow workflow copilot.
 - **First users:** Recruit five niche users through specialist communities and direct outreach.
-- **Pricing:** Per-seat SaaS
+- **Pricing:** Usage-based subscription
 - **30-day plan:** Week 1 interviews; Week 2 working demo; Week 3 paid pilots; Week 4 measure retention and decide whether to deepen the niche.
 
 ## 5. Content Angles

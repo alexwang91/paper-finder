@@ -1,3 +1,4 @@
+import json
 from datetime import date
 from pathlib import Path
 
@@ -25,3 +26,6 @@ def test_demo_generates_four_offline_artifacts(tmp_path) -> None:
     assert paths.social_csv.exists()
     assert len(pd.read_csv(paths.ranking_csv)) == 21
     assert len(pd.read_csv(paths.social_csv)) == 21
+    raw = json.loads(paths.raw_json.read_text(encoding="utf-8"))
+    assert len(raw) == 35
+    assert not any(item["source"] == "placeholder" for item in raw)

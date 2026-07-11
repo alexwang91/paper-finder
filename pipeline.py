@@ -58,6 +58,11 @@ def run_pipeline(
     )[: config.run.max_candidates]
     LOGGER.info("Candidates after deduplication: %d", len(deduplicated))
     write_raw_candidates(output_dir, end_date, deduplicated)
+    if len(deduplicated) < config.run.min_ranked_candidates:
+        raise PipelineError(
+            f"at least {config.run.min_ranked_candidates} real candidates are required before ranking; "
+            f"got {len(deduplicated)}. Increase days_back or source limits."
+        )
 
     enriched = deduplicated
     if github_enricher is not None:
@@ -77,6 +82,7 @@ def run_pipeline(
         final_count=config.run.final_count,
         min_ai_ratio=config.run.min_ai_ratio,
         topic_caps=config.selection.topic_caps,
+        min_ranked_candidates=config.run.min_ranked_candidates,
     )
     if config.run.final_count != 21:
         LOGGER.warning("Social calendar requires 21 papers; using the top 21 structural output")
@@ -85,6 +91,7 @@ def run_pipeline(
         social_source = select_ranked_papers(
             ranked_candidates, final_count=21, min_ai_ratio=config.run.min_ai_ratio,
             topic_caps=config.selection.topic_caps,
+            min_ranked_candidates=config.run.min_ranked_candidates,
         )
     social = build_social_calendar(
         social_source,

@@ -32,3 +32,10 @@ def test_cli_overrides_yaml_values(tmp_path: Path) -> None:
 def test_date_range_rejects_reversed_dates() -> None:
     with pytest.raises(ConfigError, match="week-start"):
         resolve_date_range(days_back=7, week_start="2026-07-12", week_end="2026-07-06")
+
+
+def test_default_candidate_pool_is_larger_than_final_ranking() -> None:
+    config = load_config(Path("missing-config.yaml"))
+
+    assert config.run.min_ranked_candidates == 30
+    assert config.run.min_ranked_candidates > config.run.final_count

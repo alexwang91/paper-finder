@@ -16,8 +16,15 @@ class ConfigError(ValueError):
 class RunConfig(BaseModel):
     days_back: int = Field(default=7, ge=1)
     max_candidates: int = Field(default=200, ge=1)
+    min_ranked_candidates: int = Field(default=30, ge=21)
     final_count: int = Field(default=21, ge=1)
     min_ai_ratio: float = Field(default=0.7, ge=0, le=1)
+
+    @model_validator(mode="after")
+    def candidate_pool_covers_ranking(self) -> "RunConfig":
+        if self.min_ranked_candidates < self.final_count:
+            raise ValueError("min_ranked_candidates must be at least final_count")
+        return self
 
 
 class LlmConfig(BaseModel):
@@ -128,7 +135,10 @@ def load_config(path: str | Path, cli_overrides: dict[str, Any] | None = None) -
             raise ConfigError("config root must be a mapping")
         data = loaded
     overrides = cli_overrides or {}
-    run_keys = {"days_back", "max_candidates", "final_count", "min_ai_ratio"}
+    run_keys = {
+        "days_back", "max_candidates", "min_ranked_candidates",
+        "final_count", "min_ai_ratio",
+    }
     run_overrides = {key: value for key, value in overrides.items() if key in run_keys and value is not None}
     nested = {"run": run_overrides} if run_overrides else {}
     return AppConfig.model_validate(_deep_merge(data, nested))
@@ -153,4 +163,3 @@ def resolve_date_range(
         return start, end
     end = today or date.today()
     return end - timedelta(days=days_back - 1), end
-
