@@ -2,7 +2,7 @@
 
 ## 1. Executive Summary
 
-This week's selected portfolio is led by agents_workflow: 7, multimodal: 5, vertical_ai: 4, infrastructure: 3, robotics: 1, general_ai: 1.
+This week's selected portfolio is led by agents_workflow: 7, multimodal: 5, general_ai: 5, infrastructure: 3, vertical_ai: 1.
 Commercial priority is given to narrow workflow products, reusable AI skills, and fast customer validation.
 The strongest solo-founder opportunities combine accessible code, a specific buyer, and an MVP that can be tested in weeks.
 
@@ -10,73 +10,31 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 
 | Rank | Title | Category | Total Score | Product Idea | Solo Founder Fit | Link |
 | ---: | --- | --- | ---: | --- | ---: | --- |
-| 1 | LEMUR 2: Unlocking Neural Network Diversity for AI | agents_workflow | 62.40 | Turn the method into a narrow workflow copilot. | 60 | [Paper](https://www.semanticscholar.org/paper/73b44b38e4d5429412535feb2a987c8f213a348f) |
-| 2 | Toward Trustworthy Large Language Model Agents in Healthcare | agents_workflow | 61.60 | Turn the method into a narrow workflow copilot. | 64 | [Paper](https://www.semanticscholar.org/paper/5ed936b9bc2867a589ad2f3b4d4604cd2a0ff0b7) |
-| 3 | TogoMCP: Natural Language Querying of Life-Science Knowledge Graphs via Schema-Guided LLMs and the Model Context Protocol | agents_workflow | 59.24 | Turn the method into a narrow workflow copilot. | 64 | [Paper](https://www.semanticscholar.org/paper/5c9af2e30b1b97cbd65492f41cab76591dfa874b) |
-| 4 | Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance | agents_workflow | 57.65 | Turn the method into a narrow workflow copilot. | 62 | [Paper](https://arxiv.org/abs/2607.08602) |
-| 5 | On the Limitations of Non-GPU AI Accelerators for Large-Model Inference: A Field Study of MoE and Multimodal Serving on Huawei Ascend | agents_workflow | 57.65 | Turn the method into a narrow workflow copilot. | 62 | [Paper](https://www.semanticscholar.org/paper/7c6518c81a9476592dc03372076035fcd641d5a7) |
-| 6 | Evaluating foundation model integration strategies for detecting PII in java software engineering pipelines | agents_workflow | 57.65 | Turn the method into a narrow workflow copilot. | 62 | [Paper](https://www.semanticscholar.org/paper/95ad5e41a304d1d612a319695866edcb9924eb2c) |
-| 7 | Profile-associated financial and access-related framing in LLM-generated pediatric asthma referral plans: a factorial audit of seven large language models | robotics | 57.65 | Offer simulation, testing, or monitoring before hardware deployment. | 62 | [Paper](https://www.semanticscholar.org/paper/5578987f4f1022141baac8b68a2e3ac22310d4ff) |
-| 8 | Enhancing medical Q&A systems with multimodal knowledge graphs and dual-layer attention mechanisms | multimodal | 57.50 | Package the capability as a media-processing API and review tool. | 60 | [Paper](https://www.semanticscholar.org/paper/241b35d4b7175f682cb5746dfb6676c2eeddf29f) |
-| 9 | Dictionary-Augmented Large Language Model Postprocessing for Bilingual Code-Switched Medical Speech Recognition: Development and Evaluation Study | multimodal | 57.15 | Package the capability as a media-processing API and review tool. | 62 | [Paper](https://www.semanticscholar.org/paper/3b097bd2b1267f2f944e02e1f2e17f7e18503b83) |
-| 10 | DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation | infrastructure | 56.00 | Expose the method as an observability, evaluation, or deployment service. | 60 | [Paper](https://www.semanticscholar.org/paper/42c6db4a9fde6cc229f70ecd6f704529ea8c1871) |
-| 11 | UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks | agents_workflow | 55.75 | Turn the method into a narrow workflow copilot. | 60 | [Paper](https://arxiv.org/abs/2607.08768) |
-| 12 | Construction and application of an intelligent tutoring system for resident physicians' medical record writing based on large language models. | vertical_ai | 53.35 | Build a domain-specific assistant with auditable workflows. | 62 | [Paper](https://www.semanticscholar.org/paper/e7541c77486ad290ff9f3bd3813495a317047ca9) |
-| 13 | LUMI: Tokenizer-Agnostic LLM-Based Lossless Image Compression | multimodal | 53.20 | Package the capability as a media-processing API and review tool. | 60 | [Paper](https://www.semanticscholar.org/paper/a49428bda66cf667b4321b1e493a1f2f98dc9c01) |
-| 14 | ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation | multimodal | 52.41 | Package the capability as a media-processing API and review tool. | 58 | [Paper](https://arxiv.org/abs/2607.08741) |
-| 15 | Wake up for Touch! Mask-isolated Tactile Alignment Learning in MLLMs | multimodal | 52.01 | Package the capability as a media-processing API and review tool. | 58 | [Paper](https://arxiv.org/abs/2607.00302) |
-| 16 | Evaluation of Large Language Models for Post-Cystectomy Sexual Health Counseling in Women: A Pilot Study | vertical_ai | 51.80 | Build a domain-specific assistant with auditable workflows. | 60 | [Paper](https://www.semanticscholar.org/paper/5a434561a8749ef53afc636a1e55fbcc1d7c0fb6) |
-| 17 | Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation | infrastructure | 51.33 | Expose the method as an observability, evaluation, or deployment service. | 58 | [Paper](https://arxiv.org/abs/2607.08758) |
-| 18 | Cross-model evaluation of phishing detectors against LLM-generated emails | infrastructure | 51.30 | Expose the method as an observability, evaluation, or deployment service. | 60 | [Paper](https://www.semanticscholar.org/paper/9be313a63da310cec85896633f2ff1d4fc8fb412) |
-| 19 | Application of large language models in legal queries: experiments with the artificial intelligence for legal assistance challenge | vertical_ai | 51.30 | Build a domain-specific assistant with auditable workflows. | 60 | [Paper](https://www.semanticscholar.org/paper/41418fed047a194c2057cd63bfb8680f2b78de43) |
-| 20 | Performance of large language models on undergraduate endodontic multiple-choice questions. | vertical_ai | 49.40 | Build a domain-specific assistant with auditable workflows. | 60 | [Paper](https://www.semanticscholar.org/paper/83f85dd3b32abb3f98113181580cdc6ea7f15873) |
-| 21 | Mapping Free-Text Emergency Department Diagnoses to ICD-10 Codes Using Large Language Model Embeddings | general_ai | 49.40 | Validate one repeatable user job before expanding the product. | 60 | [Paper](https://www.semanticscholar.org/paper/ae3b3acb142003f38fc6fb6f45d6f1013040db77) |
+| 1 | Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance | agents_workflow | 57.65 | Turn the method into a narrow workflow copilot. | 62 | [Paper](https://arxiv.org/abs/2607.08602) |
+| 2 | DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation | infrastructure | 55.89 | Expose the method as an observability, evaluation, or deployment service. | 60 | [Paper](https://arxiv.org/abs/2607.05147) |
+| 3 | UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks | agents_workflow | 55.75 | Turn the method into a narrow workflow copilot. | 60 | [Paper](https://arxiv.org/abs/2607.08768) |
+| 4 | CausalDS: Benchmarking Causal Reasoning in Data-Science Agents | agents_workflow | 55.64 | Turn the method into a narrow workflow copilot. | 60 | [Paper](https://arxiv.org/abs/2607.08093) |
+| 5 | HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales | agents_workflow | 55.60 | Turn the method into a narrow workflow copilot. | 60 | [Paper](https://arxiv.org/abs/2607.08705) |
+| 6 | The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality | agents_workflow | 55.25 | Turn the method into a narrow workflow copilot. | 62 | [Paper](https://arxiv.org/abs/2607.08495) |
+| 7 | Do Transformations Reveal the Truth? Generative Residual Learning for Generalized AI-Generated Image Detection | agents_workflow | 54.60 | Turn the method into a narrow workflow copilot. | 60 | [Paper](https://arxiv.org/abs/2607.08674) |
+| 8 | Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning | agents_workflow | 53.21 | Turn the method into a narrow workflow copilot. | 58 | [Paper](https://arxiv.org/abs/2607.07708) |
+| 9 | ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation | multimodal | 52.41 | Package the capability as a media-processing API and review tool. | 58 | [Paper](https://arxiv.org/abs/2607.08741) |
+| 10 | Wake up for Touch! Mask-isolated Tactile Alignment Learning in MLLMs | multimodal | 52.01 | Package the capability as a media-processing API and review tool. | 58 | [Paper](https://arxiv.org/abs/2607.00302) |
+| 11 | AlayaWorld: Long-Horizon and Playable Video World Generation | multimodal | 51.86 | Package the capability as a media-processing API and review tool. | 60 | [Paper](https://arxiv.org/abs/2607.06291) |
+| 12 | Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation | infrastructure | 51.33 | Expose the method as an observability, evaluation, or deployment service. | 58 | [Paper](https://arxiv.org/abs/2607.08758) |
+| 13 | UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma | multimodal | 51.01 | Package the capability as a media-processing API and review tool. | 58 | [Paper](https://arxiv.org/abs/2607.06987) |
+| 14 | Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo | infrastructure | 50.65 | Expose the method as an observability, evaluation, or deployment service. | 58 | [Paper](https://arxiv.org/abs/2607.04939) |
+| 15 | OpenCoF: Learning to Reason Through Video Generation | multimodal | 50.55 | Package the capability as a media-processing API and review tool. | 58 | [Paper](https://arxiv.org/abs/2607.08763) |
+| 16 | DrugGen 2: A disease-aware language model for enhancing drug discovery | vertical_ai | 49.02 | Build a domain-specific assistant with auditable workflows. | 58 | [Paper](https://arxiv.org/abs/2607.08404) |
+| 17 | When the Judge Changes, So Does the Measurement: Auditing LLM-as-Judge Reliability | general_ai | 48.90 | Validate one repeatable user job before expanding the product. | 60 | [Paper](https://arxiv.org/abs/2607.08535) |
+| 18 | Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition | general_ai | 45.54 | Validate one repeatable user job before expanding the product. | 58 | [Paper](https://arxiv.org/abs/2601.16211) |
+| 19 | A Quantized Native Runtime for On-Device Semantic Audio Generation | general_ai | 43.63 | Validate one repeatable user job before expanding the product. | 58 | [Paper](https://arxiv.org/abs/2607.08526) |
+| 20 | Super Weights in LLMs and the Failure of Selective Training | general_ai | 43.05 | Validate one repeatable user job before expanding the product. | 58 | [Paper](https://arxiv.org/abs/2607.08733) |
+| 21 | Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity | general_ai | 42.53 | Validate one repeatable user job before expanding the product. | 58 | [Paper](https://arxiv.org/abs/2607.07386) |
 
 ## 3. Detailed Analysis
 
-### 1. LEMUR 2: Unlocking Neural Network Diversity for AI
-
-- **Link:** https://www.semanticscholar.org/paper/73b44b38e4d5429412535feb2a987c8f213a348f
-- **One-sentence summary:** Existing NAS benchmarks (e.g., NAS-Bench, NATS-Bench) cover only narrow, task-specific regions of the architectural design space and lack cross-domain or deployment-aware evaluation. LEMUR 2 introduces a large-scale, extensible framework u…
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies LEMUR 2: Unlocking Neural Network Diversity for AI to one customer workflow.
-- **Target customers:** operations teams; consultants; SMBs
-- **MVP suggestion:** Turn the method into a narrow workflow copilot.
-- **Monetization:** Usage-based subscription
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 62.40/100 (medium confidence)
-
-### 2. Toward Trustworthy Large Language Model Agents in Healthcare
-
-- **Link:** https://www.semanticscholar.org/paper/5ed936b9bc2867a589ad2f3b4d4604cd2a0ff0b7
-- **One-sentence summary:** Healthcare appointment scheduling remains a persistent operational bottleneck, driven by manual coordination, fragmented legacy systems, and high administrative overhead. These inefficiencies constrain provider availability and degrade pat…
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Toward Trustworthy Large Language Model Agents in Healthcare to one customer workflow.
-- **Target customers:** operations teams; consultants; SMBs
-- **MVP suggestion:** Turn the method into a narrow workflow copilot.
-- **Monetization:** Usage-based subscription
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 61.60/100 (medium confidence)
-
-### 3. TogoMCP: Natural Language Querying of Life-Science Knowledge Graphs via Schema-Guided LLMs and the Model Context Protocol
-
-- **Link:** https://www.semanticscholar.org/paper/5c9af2e30b1b97cbd65492f41cab76591dfa874b
-- **One-sentence summary:** Querying the RDF Portal knowledge graph maintained by DBCLS—which aggregates approximately 60 life-science databases—requires proficiency in both SPARQL and database-specific RDF schemas, placing this resource beyond the reach of most rese…
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies TogoMCP: Natural Language Querying of Life-Science Knowledge Graphs via Schema-Guided LLMs and the Model Context Protocol to one customer workflow.
-- **Target customers:** operations teams; consultants; SMBs
-- **MVP suggestion:** Turn the method into a narrow workflow copilot.
-- **Monetization:** Usage-based subscription
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 59.24/100 (medium confidence)
-
-### 4. Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance
+### 1. Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance
 
 - **Link:** https://arxiv.org/abs/2607.08602
 - **One-sentence summary:** Hepatocellular carcinoma (HCC) is a common malignancy and a leading cause of cancer-related mortality. Current guidelines and staging systems provide coarse categories, but often miss within-stage heterogeneity and the clinical context in…
@@ -90,79 +48,9 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 57.65/100 (medium confidence)
 
-### 5. On the Limitations of Non-GPU AI Accelerators for Large-Model Inference: A Field Study of MoE and Multimodal Serving on Huawei Ascend
+### 2. DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation
 
-- **Link:** https://www.semanticscholar.org/paper/7c6518c81a9476592dc03372076035fcd641d5a7
-- **One-sentence summary:** Non-GPU AI accelerators are increasingly adopted as alternatives to general-purpose GPUs for large-model inference, but the real engineering cost of migrating demanding workloads beyond CUDA remains poorly documented. We present a field st…
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies On the Limitations of Non-GPU AI Accelerators for Large-Model Inference: A Field Study of MoE and Multimodal Serving on Huawei Ascend to one customer workflow.
-- **Target customers:** operations teams; consultants; SMBs
-- **MVP suggestion:** Turn the method into a narrow workflow copilot.
-- **Monetization:** Usage-based subscription
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 57.65/100 (medium confidence)
-
-### 6. Evaluating foundation model integration strategies for detecting PII in java software engineering pipelines
-
-- **Link:** https://www.semanticscholar.org/paper/95ad5e41a304d1d612a319695866edcb9924eb2c
-- **One-sentence summary:** Java source code may inadvertently embed personally identifiable information (PII), creating privacy, security, and regulatory compliance risks in contemporary software engineering pipelines. We empirically compare three architectural stra…
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Evaluating foundation model integration strategies for detecting PII in java software engineering pipelines to one customer workflow.
-- **Target customers:** operations teams; consultants; SMBs
-- **MVP suggestion:** Turn the method into a narrow workflow copilot.
-- **Monetization:** Usage-based subscription
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 57.65/100 (medium confidence)
-
-### 7. Profile-associated financial and access-related framing in LLM-generated pediatric asthma referral plans: a factorial audit of seven large language models
-
-- **Link:** https://www.semanticscholar.org/paper/5578987f4f1022141baac8b68a2e3ac22310d4ff
-- **One-sentence summary:** Large language models (LLMs) are increasingly considered for clinical documentation, referral support, and patient-facing communication. Biomedical accuracy alone may be insufficient for safe deployment if generated plans vary in access na…
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：机器人仿真与评测工具。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Profile-associated financial and access-related framing in LLM-generated pediatric asthma referral plans: a factorial audit of seven large language models to one customer workflow.
-- **Target customers:** robotics labs; automation teams
-- **MVP suggestion:** Offer simulation, testing, or monitoring before hardware deployment.
-- **Monetization:** Developer subscription
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 57.65/100 (medium confidence)
-
-### 8. Enhancing medical Q&A systems with multimodal knowledge graphs and dual-layer attention mechanisms
-
-- **Link:** https://www.semanticscholar.org/paper/241b35d4b7175f682cb5746dfb6676c2eeddf29f
-- **One-sentence summary:** Medical intelligent question-answering (QA) systems have become important tools for improving the efficiency of healthcare services, and recent research has increasingly emphasized performance optimization and multimodal integration. Howev…
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：多模态内容处理 API。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Enhancing medical Q&A systems with multimodal knowledge graphs and dual-layer attention mechanisms to one customer workflow.
-- **Target customers:** content teams; e-commerce sellers
-- **MVP suggestion:** Package the capability as a media-processing API and review tool.
-- **Monetization:** API credits plus team plans
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 57.50/100 (medium confidence)
-
-### 9. Dictionary-Augmented Large Language Model Postprocessing for Bilingual Code-Switched Medical Speech Recognition: Development and Evaluation Study
-
-- **Link:** https://www.semanticscholar.org/paper/3b097bd2b1267f2f944e02e1f2e17f7e18503b83
-- **One-sentence summary:** Abstract Background Clinical documentation burden contributes significantly to physician burnout, with health care professionals spending much of their time on electronic health record interactions. Automatic speech recognition (ASR) syste…
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：多模态内容处理 API。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Dictionary-Augmented Large Language Model Postprocessing for Bilingual Code-Switched Medical Speech Recognition: Development and Evaluation Study to one customer workflow.
-- **Target customers:** content teams; e-commerce sellers
-- **MVP suggestion:** Package the capability as a media-processing API and review tool.
-- **Monetization:** API credits plus team plans
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 57.15/100 (medium confidence)
-
-### 10. DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation
-
-- **Link:** https://www.semanticscholar.org/paper/42c6db4a9fde6cc229f70ecd6f704529ea8c1871
+- **Link:** https://arxiv.org/abs/2607.05147
 - **One-sentence summary:** Speculative decoding accelerates Large Language Model (LLM) inference by decoupling draft generation from target verification. While recent parallel drafters efficiently propose long token sequences in a single forward pass, they suffer fr…
 - **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
 - **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
@@ -172,9 +60,9 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **MVP suggestion:** Expose the method as an observability, evaluation, or deployment service.
 - **Monetization:** Tiered developer plans
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 56.00/100 (medium confidence)
+- **Final score:** 55.89/100 (medium confidence)
 
-### 11. UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks
+### 3. UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks
 
 - **Link:** https://arxiv.org/abs/2607.08768
 - **One-sentence summary:** The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing ben…
@@ -188,35 +76,77 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 55.75/100 (medium confidence)
 
-### 12. Construction and application of an intelligent tutoring system for resident physicians' medical record writing based on large language models.
+### 4. CausalDS: Benchmarking Causal Reasoning in Data-Science Agents
 
-- **Link:** https://www.semanticscholar.org/paper/e7541c77486ad290ff9f3bd3813495a317047ca9
-- **One-sentence summary:** OBJECTIVE To develop and evaluate a large language model (LLM)-based intelligent tutoring system for medical record writing in residency training and to assess its effectiveness in improving documentation quality and documentation-related…
+- **Link:** https://arxiv.org/abs/2607.08093
+- **One-sentence summary:** Large language models (LLMs) increasingly act as integrated data-science agents, combining abstract reasoning with advanced tool use. Yet the relevant benchmark landscape largely divides into symbolic causal reasoning benchmarks without re…
 - **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
 - **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：垂直行业 AI 助手。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Construction and application of an intelligent tutoring system for resident physicians' medical record writing based on large language models. to one customer workflow.
-- **Target customers:** domain professionals; specialist firms
-- **MVP suggestion:** Build a domain-specific assistant with auditable workflows.
-- **Monetization:** Per-seat SaaS
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies CausalDS: Benchmarking Causal Reasoning in Data-Science Agents to one customer workflow.
+- **Target customers:** operations teams; consultants; SMBs
+- **MVP suggestion:** Turn the method into a narrow workflow copilot.
+- **Monetization:** Usage-based subscription
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 53.35/100 (medium confidence)
+- **Final score:** 55.64/100 (medium confidence)
 
-### 13. LUMI: Tokenizer-Agnostic LLM-Based Lossless Image Compression
+### 5. HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales
 
-- **Link:** https://www.semanticscholar.org/paper/a49428bda66cf667b4321b1e493a1f2f98dc9c01
-- **One-sentence summary:** Large language model (LLM)-based lossless image compression methods typically represent pixel data through the native text interface of a pretrained model, converting pixel values into token sequences that the LLM processes through its voc…
+- **Link:** https://arxiv.org/abs/2607.08705
+- **One-sentence summary:** Rapid advancements in video diffusion models and temporal editing tools have enabled the generation of highly realistic human-centric videos, posing unprecedented challenges to digital content forensics. Existing benchmarks primarily focus…
 - **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
 - **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：多模态内容处理 API。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies LUMI: Tokenizer-Agnostic LLM-Based Lossless Image Compression to one customer workflow.
-- **Target customers:** content teams; e-commerce sellers
-- **MVP suggestion:** Package the capability as a media-processing API and review tool.
-- **Monetization:** API credits plus team plans
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales to one customer workflow.
+- **Target customers:** operations teams; consultants; SMBs
+- **MVP suggestion:** Turn the method into a narrow workflow copilot.
+- **Monetization:** Usage-based subscription
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 53.20/100 (medium confidence)
+- **Final score:** 55.60/100 (medium confidence)
 
-### 14. ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation
+### 6. The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality
+
+- **Link:** https://arxiv.org/abs/2607.08495
+- **One-sentence summary:** Sharp et al. (2025) introduce "agentic inequality" as a framework for analyzing disparities in access to AI agents across three dimensions: availability, quality, and quantity. These person- and organization-level dimensions characterize w…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality to one customer workflow.
+- **Target customers:** operations teams; consultants; SMBs
+- **MVP suggestion:** Turn the method into a narrow workflow copilot.
+- **Monetization:** Usage-based subscription
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 55.25/100 (medium confidence)
+
+### 7. Do Transformations Reveal the Truth? Generative Residual Learning for Generalized AI-Generated Image Detection
+
+- **Link:** https://arxiv.org/abs/2607.08674
+- **One-sentence summary:** The rapid advancement of generative AI has enabled the creation of highly realistic deepfake media, posing significant threats, including misinformation, digital identity theft, fraud, and manipulation of public opinion. AI-generated image…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Do Transformations Reveal the Truth? Generative Residual Learning for Generalized AI-Generated Image Detection to one customer workflow.
+- **Target customers:** operations teams; consultants; SMBs
+- **MVP suggestion:** Turn the method into a narrow workflow copilot.
+- **Monetization:** Usage-based subscription
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 54.60/100 (medium confidence)
+
+### 8. Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning
+
+- **Link:** https://arxiv.org/abs/2607.07708
+- **One-sentence summary:** Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically explaining these relat…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning to one customer workflow.
+- **Target customers:** operations teams; consultants; SMBs
+- **MVP suggestion:** Turn the method into a narrow workflow copilot.
+- **Monetization:** Usage-based subscription
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 53.21/100 (medium confidence)
+
+### 9. ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation
 
 - **Link:** https://arxiv.org/abs/2607.08741
 - **One-sentence summary:** Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer precise control via text and kinematic cons…
@@ -230,7 +160,7 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 52.41/100 (medium confidence)
 
-### 15. Wake up for Touch! Mask-isolated Tactile Alignment Learning in MLLMs
+### 10. Wake up for Touch! Mask-isolated Tactile Alignment Learning in MLLMs
 
 - **Link:** https://arxiv.org/abs/2607.00302
 - **One-sentence summary:** Touch supplies the physical grounding needed to perceive intrinsic material properties, such as friction and compliance, that vision alone often cannot resolve. Recent efforts for equipping multimodal LLMs with this tactile sense, however,…
@@ -244,21 +174,21 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 52.01/100 (medium confidence)
 
-### 16. Evaluation of Large Language Models for Post-Cystectomy Sexual Health Counseling in Women: A Pilot Study
+### 11. AlayaWorld: Long-Horizon and Playable Video World Generation
 
-- **Link:** https://www.semanticscholar.org/paper/5a434561a8749ef53afc636a1e55fbcc1d7c0fb6
-- **One-sentence summary:** Abstract Objective To evaluate the adherence to guidelines and readability of large language model-generated sexual health information related to female sexual dysfunction following cystectomy, and to determine whether adherence differs ac…
+- **Link:** https://arxiv.org/abs/2607.06291
+- **One-sentence summary:** Game worlds have traditionally been built through labor-intensive production pipelines, making them costly to develop, difficult to customization, and expensive to modify after deployment. Recent advances in video world models offer a fund…
 - **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
 - **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：垂直行业 AI 助手。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Evaluation of Large Language Models for Post-Cystectomy Sexual Health Counseling in Women: A Pilot Study to one customer workflow.
-- **Target customers:** domain professionals; specialist firms
-- **MVP suggestion:** Build a domain-specific assistant with auditable workflows.
-- **Monetization:** Per-seat SaaS
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：多模态内容处理 API。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies AlayaWorld: Long-Horizon and Playable Video World Generation to one customer workflow.
+- **Target customers:** content teams; e-commerce sellers
+- **MVP suggestion:** Package the capability as a media-processing API and review tool.
+- **Monetization:** API credits plus team plans
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 51.80/100 (medium confidence)
+- **Final score:** 51.86/100 (medium confidence)
 
-### 17. Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation
+### 12. Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation
 
 - **Link:** https://arxiv.org/abs/2607.08758
 - **One-sentence summary:** Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say little about whether AI systems can follow…
@@ -272,65 +202,135 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
 - **Final score:** 51.33/100 (medium confidence)
 
-### 18. Cross-model evaluation of phishing detectors against LLM-generated emails
+### 13. UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma
 
-- **Link:** https://www.semanticscholar.org/paper/9be313a63da310cec85896633f2ff1d4fc8fb412
-- **One-sentence summary:** Phishing remains a prevalent cyberattack vector, and the widespread adoption of large language models (LLMs) has enabled adversaries to generate grammatically correct and contextually coherent phishing emails at scale, against which conven…
+- **Link:** https://arxiv.org/abs/2607.06987
+- **One-sentence summary:** Reinforcement learning (RL) has become the standard paradigm for enhancing the complex reasoning capabilities of large language models (LLMs). To achieve sample efficiency, modern RL frameworks rely on importance sampling (IS). However, th…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：多模态内容处理 API。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma to one customer workflow.
+- **Target customers:** content teams; e-commerce sellers
+- **MVP suggestion:** Package the capability as a media-processing API and review tool.
+- **Monetization:** API credits plus team plans
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 51.01/100 (medium confidence)
+
+### 14. Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo
+
+- **Link:** https://arxiv.org/abs/2607.04939
+- **One-sentence summary:** Large Language Models (LLMs) unlocked new possibilities in automated code writing, becoming the backbone of most code completion tools. While LLMs excel in mainstream languages, they often lack support for the so-called low-resource langua…
 - **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
 - **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
 - **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：AI 开发者基础设施服务。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Cross-model evaluation of phishing detectors against LLM-generated emails to one customer workflow.
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo to one customer workflow.
 - **Target customers:** AI engineers; product teams
 - **MVP suggestion:** Expose the method as an observability, evaluation, or deployment service.
 - **Monetization:** Tiered developer plans
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 51.30/100 (medium confidence)
+- **Final score:** 50.65/100 (medium confidence)
 
-### 19. Application of large language models in legal queries: experiments with the artificial intelligence for legal assistance challenge
+### 15. OpenCoF: Learning to Reason Through Video Generation
 
-- **Link:** https://www.semanticscholar.org/paper/41418fed047a194c2057cd63bfb8680f2b78de43
-- **One-sentence summary:** This study evaluates the applicability of generative artificial intelligence (AI), specifically Large Language Models (LLMs), in legal assistance tasks using the Artificial Intelligence for Legal Assistance challenge dataset, which include…
+- **Link:** https://arxiv.org/abs/2607.08763
+- **One-sentence summary:** Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): re…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：多模态内容处理 API。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies OpenCoF: Learning to Reason Through Video Generation to one customer workflow.
+- **Target customers:** content teams; e-commerce sellers
+- **MVP suggestion:** Package the capability as a media-processing API and review tool.
+- **Monetization:** API credits plus team plans
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 50.55/100 (medium confidence)
+
+### 16. DrugGen 2: A disease-aware language model for enhancing drug discovery
+
+- **Link:** https://arxiv.org/abs/2607.08404
+- **One-sentence summary:** Current computational approaches for drug design typically focus on generating molecules conditioned on specific targets or general molecular properties, often neglecting the influence of disease context on target behavior and therapeutic…
 - **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
 - **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
 - **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：垂直行业 AI 助手。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Application of large language models in legal queries: experiments with the artificial intelligence for legal assistance challenge to one customer workflow.
+- **Possible AI Skill / Agent:** Create a reusable skill that applies DrugGen 2: A disease-aware language model for enhancing drug discovery to one customer workflow.
 - **Target customers:** domain professionals; specialist firms
 - **MVP suggestion:** Build a domain-specific assistant with auditable workflows.
 - **Monetization:** Per-seat SaaS
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 51.30/100 (medium confidence)
+- **Final score:** 49.02/100 (low confidence)
 
-### 20. Performance of large language models on undergraduate endodontic multiple-choice questions.
+### 17. When the Judge Changes, So Does the Measurement: Auditing LLM-as-Judge Reliability
 
-- **Link:** https://www.semanticscholar.org/paper/83f85dd3b32abb3f98113181580cdc6ea7f15873
-- **One-sentence summary:** OBJECTIVE This study aimed to evaluate the accuracy and consistency of responses provided by three large language models (LLMs), ChatGPT-5.2, Gemini-3, and DeepSeek-V3.2, to multiple-choice questions based on undergraduate endodontic educa…
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：垂直行业 AI 助手。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Performance of large language models on undergraduate endodontic multiple-choice questions. to one customer workflow.
-- **Target customers:** domain professionals; specialist firms
-- **MVP suggestion:** Build a domain-specific assistant with auditable workflows.
-- **Monetization:** Per-seat SaaS
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 49.40/100 (low confidence)
-
-### 21. Mapping Free-Text Emergency Department Diagnoses to ICD-10 Codes Using Large Language Model Embeddings
-
-- **Link:** https://www.semanticscholar.org/paper/ae3b3acb142003f38fc6fb6f45d6f1013040db77
-- **One-sentence summary:** ObjectiveIn many emergency departments (EDs) in Scotland, discharge diagnoses are documented as free-text rather than coded using the International Classification of Diseases, Tenth Revision (ICD-10). This study aimed to validate an automa…
+- **Link:** https://arxiv.org/abs/2607.08535
+- **One-sentence summary:** An LLM-as-judge score can move even when the candidate responses stay fixed, simply because the evaluator has changed. We treat this evaluator-replacement ambiguity as a measurement-validity problem. Across four judgment datasets, we compa…
 - **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
 - **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
 - **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：窄场景 AI 效率工具。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Mapping Free-Text Emergency Department Diagnoses to ICD-10 Codes Using Large Language Model Embeddings to one customer workflow.
+- **Possible AI Skill / Agent:** Create a reusable skill that applies When the Judge Changes, So Does the Measurement: Auditing LLM-as-Judge Reliability to one customer workflow.
 - **Target customers:** knowledge workers; small teams
 - **MVP suggestion:** Validate one repeatable user job before expanding the product.
 - **Monetization:** Freemium SaaS
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 49.40/100 (low confidence)
+- **Final score:** 48.90/100 (low confidence)
+
+### 18. Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition
+
+- **Link:** https://arxiv.org/abs/2601.16211
+- **One-sentence summary:** Zero-Shot Compositional Action Recognition (ZS-CAR) requires recognizing novel verb-object combinations composed of previously observed primitives. In this work, we tackle a key failure mode: models predict verbs via object-driven shortcut…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：窄场景 AI 效率工具。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition to one customer workflow.
+- **Target customers:** knowledge workers; small teams
+- **MVP suggestion:** Validate one repeatable user job before expanding the product.
+- **Monetization:** Freemium SaaS
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 45.54/100 (low confidence)
+
+### 19. A Quantized Native Runtime for On-Device Semantic Audio Generation
+
+- **Link:** https://arxiv.org/abs/2607.08526
+- **One-sentence summary:** Semantic audio applications increasingly require controllable generation on commodity and embedded hardware rather than through framework-heavy datacenter stacks. We present aria, a dependency-free native runtime that runs the complete tex…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：窄场景 AI 效率工具。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies A Quantized Native Runtime for On-Device Semantic Audio Generation to one customer workflow.
+- **Target customers:** knowledge workers; small teams
+- **MVP suggestion:** Validate one repeatable user job before expanding the product.
+- **Monetization:** Freemium SaaS
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 43.63/100 (low confidence)
+
+### 20. Super Weights in LLMs and the Failure of Selective Training
+
+- **Link:** https://arxiv.org/abs/2607.08733
+- **One-sentence summary:** Recent work identified Super Weights, individual parameters whose removal degrades model performance by orders of magnitude. We show that this degradation due to pruning Super Weights does not universally apply to all LLMs. Furthermore, if…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：窄场景 AI 效率工具。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Super Weights in LLMs and the Failure of Selective Training to one customer workflow.
+- **Target customers:** knowledge workers; small teams
+- **MVP suggestion:** Validate one repeatable user job before expanding the product.
+- **Monetization:** Freemium SaaS
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 43.05/100 (low confidence)
+
+### 21. Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity
+
+- **Link:** https://arxiv.org/abs/2607.07386
+- **One-sentence summary:** Linear attention models allow a fixed state size and a fixed amount of compute per token. However, due to their limited state size, linear attention models fall behind in long-context recall compared to softmax-attention-based transformer…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：窄场景 AI 效率工具。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity to one customer workflow.
+- **Target customers:** knowledge workers; small teams
+- **MVP suggestion:** Validate one repeatable user job before expanding the product.
+- **Monetization:** Freemium SaaS
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 42.53/100 (low confidence)
 
 ## 4. Top 5 Solo Founder Opportunities
 
-### 1. Toward Trustworthy Large Language Model Agents in Healthcare
+### 1. Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance
 
 - **Why suitable:** Selected by deterministic commercial and feasibility signals.
 - **MVP:** Turn the method into a narrow workflow copilot.
@@ -338,7 +338,7 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Pricing:** Usage-based subscription
 - **30-day plan:** Week 1 interviews; Week 2 working demo; Week 3 paid pilots; Week 4 measure retention and decide whether to deepen the niche.
 
-### 2. TogoMCP: Natural Language Querying of Life-Science Knowledge Graphs via Schema-Guided LLMs and the Model Context Protocol
+### 2. The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality
 
 - **Why suitable:** Selected by deterministic commercial and feasibility signals.
 - **MVP:** Turn the method into a narrow workflow copilot.
@@ -346,7 +346,15 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Pricing:** Usage-based subscription
 - **30-day plan:** Week 1 interviews; Week 2 working demo; Week 3 paid pilots; Week 4 measure retention and decide whether to deepen the niche.
 
-### 3. Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance
+### 3. DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation
+
+- **Why suitable:** Selected by deterministic commercial and feasibility signals.
+- **MVP:** Expose the method as an observability, evaluation, or deployment service.
+- **First users:** Recruit five niche users through specialist communities and direct outreach.
+- **Pricing:** Tiered developer plans
+- **30-day plan:** Week 1 interviews; Week 2 working demo; Week 3 paid pilots; Week 4 measure retention and decide whether to deepen the niche.
+
+### 4. UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks
 
 - **Why suitable:** Selected by deterministic commercial and feasibility signals.
 - **MVP:** Turn the method into a narrow workflow copilot.
@@ -354,15 +362,7 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Pricing:** Usage-based subscription
 - **30-day plan:** Week 1 interviews; Week 2 working demo; Week 3 paid pilots; Week 4 measure retention and decide whether to deepen the niche.
 
-### 4. On the Limitations of Non-GPU AI Accelerators for Large-Model Inference: A Field Study of MoE and Multimodal Serving on Huawei Ascend
-
-- **Why suitable:** Selected by deterministic commercial and feasibility signals.
-- **MVP:** Turn the method into a narrow workflow copilot.
-- **First users:** Recruit five niche users through specialist communities and direct outreach.
-- **Pricing:** Usage-based subscription
-- **30-day plan:** Week 1 interviews; Week 2 working demo; Week 3 paid pilots; Week 4 measure retention and decide whether to deepen the niche.
-
-### 5. Evaluating foundation model integration strategies for detecting PII in java software engineering pipelines
+### 5. CausalDS: Benchmarking Causal Reasoning in Data-Science Agents
 
 - **Why suitable:** Selected by deterministic commercial and feasibility signals.
 - **MVP:** Turn the method into a narrow workflow copilot.
