@@ -1,0 +1,17 @@
+{
+  "results": [
+    {
+      "id": "pwc-1",
+      "title": "Agent Benchmark",
+      "url_abs": "https://arxiv.org/abs/2607.00002",
+      "url_pdf": "https://arxiv.org/pdf/2607.00002",
+      "abstract": "A benchmark for commercial agents.",
+      "published": "2026-07-09",
+      "authors": [{"name": "Carol Example"}],
+      "repository": {"url": "https://github.com/acme/agent-benchmark", "stars": 123},
+      "tasks": [{"name": "Agent evaluation"}],
+      "datasets": [{"name": "AgentBench"}]
+    }
+  ]
+}
+

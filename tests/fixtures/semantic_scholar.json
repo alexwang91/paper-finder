@@ -1,0 +1,20 @@
+{
+  "total": 1,
+  "data": [
+    {
+      "paperId": "s2-1",
+      "title": "Commercial Document AI",
+      "abstract": null,
+      "authors": [{"name": "Bob Example"}],
+      "venue": "DemoConf",
+      "year": 2026,
+      "citationCount": 12,
+      "influentialCitationCount": 2,
+      "url": "https://www.semanticscholar.org/paper/s2-1",
+      "fieldsOfStudy": ["Computer Science"],
+      "publicationDate": "2026-07-08",
+      "openAccessPdf": {"url": "https://example.com/paper.pdf"}
+    }
+  ]
+}
+

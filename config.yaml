@@ -1,0 +1,111 @@
+run:
+  days_back: 7
+  max_candidates: 200
+  final_count: 21
+  min_ai_ratio: 0.7
+
+llm:
+  provider: "openai"
+  model: "gpt-4o-mini"
+  temperature: 0.2
+  max_tokens: 3000
+
+sources:
+  arxiv:
+    enabled: true
+    max_results: 100
+  semantic_scholar:
+    enabled: true
+    max_results: 100
+  huggingface:
+    enabled: true
+    max_results: 50
+  github:
+    enabled: true
+    max_results: 50
+  paperswithcode:
+    enabled: true
+    max_results: 50
+
+scoring:
+  technical_novelty_weight: 0.15
+  commercial_potential_weight: 0.25
+  solo_founder_feasibility_weight: 0.20
+  market_need_weight: 0.15
+  mvp_speed_weight: 0.10
+  virality_weight: 0.10
+  moat_weight: 0.05
+
+social:
+  timezone: "Europe/Budapest"
+  x_post_times: ["09:00", "15:00", "21:00"]
+  xiaohongshu_post_times: ["08:30", "12:30", "21:30"]
+  llm_rewrite: false
+
+http:
+  timeout_seconds: 20
+  retries: 2
+  user_agent: "WeeklyPaperCommercialRadar/1.0"
+
+selection:
+  similarity_threshold: 0.94
+  topic_caps:
+    agents_workflow: 7
+    multimodal: 5
+    vertical_ai: 4
+    robotics: 3
+    infrastructure: 3
+    non_ai_commercial: 3
+    general_ai: 5
+
+arxiv_categories:
+  - cs.AI
+  - cs.CL
+  - cs.CV
+  - cs.LG
+  - cs.RO
+  - cs.IR
+  - cs.HC
+  - stat.ML
+  - eess.IV
+  - q-bio
+  - econ
+
+keywords:
+  - large language model
+  - LLM
+  - AI agent
+  - autonomous agent
+  - multi-agent
+  - RAG
+  - retrieval augmented generation
+  - multimodal
+  - vision language model
+  - VLM
+  - diffusion
+  - video generation
+  - speech AI
+  - text to speech
+  - voice agent
+  - robotics
+  - embodied AI
+  - code generation
+  - software engineering agent
+  - workflow automation
+  - data analysis agent
+  - document AI
+  - medical AI
+  - legal AI
+  - financial AI
+  - education AI
+  - cybersecurity AI
+  - edge AI
+  - IoT AI
+  - AI for science
+  - bio AI
+  - drug discovery
+  - material discovery
+  - enterprise AI
+  - personalization
+  - recommendation
+
