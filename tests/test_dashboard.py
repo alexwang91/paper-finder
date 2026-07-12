@@ -168,5 +168,6 @@ def test_current_leading_papers_have_curated_playbooks() -> None:
     for title in (
         "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
         "Wat3R: Underwater 3D Geometry Learning without Annotations",
+        "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
     ):
         assert normalize_title(title) in playbooks

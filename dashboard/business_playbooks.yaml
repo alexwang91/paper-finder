@@ -1,3 +1,16 @@
+"Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE":
+  product_name: "LongContext Optimizer"
+  one_liner: "为私有大模型自动评估并优化长上下文扩展效果、显存占用和推理成本。"
+  target_customers: ["企业知识库团队", "模型推理平台", "长文档 Agent 团队"]
+  pain_point: "上下文窗口拉长后，模型可能丢失局部细节，同时显存和延迟急升；团队缺少按真实任务比较方案的工具。"
+  mvp: "导入模型与一组长文档任务，比较不同上下文长度下的召回、困惑度、延迟和显存，并推荐可复现配置。"
+  pricing_unit: "模型评测任务 + 团队工作区"
+  pilot_price: "定价假设：¥6,000–15,000 / 单模型优化试点"
+  steady_state_pricing: "定价假设：¥1,499–6,999 / 月，私有部署另议"
+  acquisition: ["发布主流开源模型长上下文性价比榜", "为 RAG 与文档 Agent 团队提供免费基线诊断"]
+  validation_30d: ["访谈 5 个长文档应用团队", "复现 3 个模型在 4 档上下文长度下的曲线", "拿到 1 个真实任务集完成付费前评测"]
+  risks: ["不同模型架构的优化方式不通用", "评测任务可能无法代表线上流量", "模型厂商会持续改善原生上下文"]
+
 "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models":
   product_name: "EventVision Studio"
   one_liner: "把事件相机数据快速重建成可查看、可预测、可导出的长时视频。"
