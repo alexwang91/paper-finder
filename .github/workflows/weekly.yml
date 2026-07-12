@@ -35,11 +35,14 @@ jobs:
             python main.py --days-back 7 --final-count 21 --no-llm
           fi
 
+      - name: Build commercial opportunity dashboard
+        run: python scripts/build_dashboard.py
+
       - name: Commit changed outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f outputs/*.json outputs/*.csv outputs/*.md
+          git add -f outputs/*.json outputs/*.csv outputs/*.md dashboard/index.html
           if git diff --cached --quiet; then
             echo "No output changes"
             exit 0
