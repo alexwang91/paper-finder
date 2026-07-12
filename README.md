@@ -1,5 +1,21 @@
 # Weekly Paper Commercial Radar
 
+## 商业机会看板
+
+`dashboard/index.html` 是可直接打开和分享的单文件看板。它不是先找 21 篇论文，而是对至少 30 篇真实候选统一评分后，展示最终 Top 21。每个项目包含目标客户、痛点、MVP、获客路径、30 天验证计划、风险与定价假设；定价内容是待客户访谈验证的商业假设，不是市场事实。
+
+更新周榜后重新生成：
+
+```bash
+python scripts/build_dashboard.py
+```
+
+也可以指定某一期榜单：
+
+```bash
+python scripts/build_dashboard.py --ranking outputs/weekly_paper_rank_YYYY-MM-DD.csv
+```
+
 每周自动发现研究论文，以商业价值和独立开发者可执行性为核心选出 21 篇，并生成周报、排名表和 7 天社媒内容。
 
 它不是学术影响力排行榜。评分优先考虑论文能否变成 AI Skill、Agent、Micro SaaS、API、浏览器插件、垂直工作流或数据产品。
