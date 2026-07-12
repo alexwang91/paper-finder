@@ -197,7 +197,7 @@ Expected: FAIL because renderer and template do not exist.
 
 - [ ] **Step 3: Implement `build_dashboard()` and CLI**
 
-Serialize data with `json.dumps(..., ensure_ascii=False).replace("</", "<\\/")`. Replace exactly one `__DASHBOARD_DATA__` token and one `__REPORT_META__` token. Write UTF-8 through a temporary sibling file and atomic replace. CLI options:
+Serialize data with `json.dumps(items, ensure_ascii=False).replace("</", "<\\/")`. Replace exactly one `__DASHBOARD_DATA__` token and one `__REPORT_META__` token. Write UTF-8 through a temporary sibling file and atomic replace. CLI options:
 
 ```text
 --output-dir outputs
