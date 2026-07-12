@@ -67,7 +67,7 @@ def load_ranking(path: Path) -> list[dict[str, str]]:
 
 
 _PLAYBOOK_FIELDS = {
-    "product_name", "one_liner", "target_customers", "pain_point", "mvp",
+    "product_name", "research_takeaway", "one_liner", "target_customers", "pain_point", "mvp",
     "pricing_unit", "pilot_price", "steady_state_pricing", "acquisition",
     "validation_30d", "risks",
 }
@@ -113,6 +113,10 @@ def merge_dashboard_data(
         else:
             item.update({
                 "product_name": paper.get("product_idea") or "待定义产品",
+                "research_takeaway": (
+                    f"论文采用其提出的方法研究该问题；现有公开结果验证了方法在目标任务上的可行性；"
+                    f"这对{paper.get('why_it_matters') or '相关任务的质量与效率'}有潜在提升价值，仍需结合原文和真实数据复核。"
+                ),
                 "one_liner": paper.get("why_it_matters") or "待进一步验证的研究机会",
                 "target_customers": [value.strip() for value in paper.get("target_users", "").split(";") if value.strip()],
                 "pain_point": paper.get("business_insight") or "待客户访谈验证",
