@@ -1,5 +1,6 @@
 "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE":
   product_name: "LongContext Optimizer"
+  research_takeaway: "论文采用 Dynamic Bifocal RoPE，在长距离位置建模与局部细节之间动态分配注意范围；实验验证模型能够以更低的扩展成本处理更长上下文；这对长文档理解、RAG 检索完整性和长上下文推理效率有提升价值。"
   one_liner: "为私有大模型自动评估并优化长上下文扩展效果、显存占用和推理成本。"
   target_customers: ["企业知识库团队", "模型推理平台", "长文档 Agent 团队"]
   pain_point: "上下文窗口拉长后，模型可能丢失局部细节，同时显存和延迟急升；团队缺少按真实任务比较方案的工具。"
@@ -13,6 +14,7 @@
 
 "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models":
   product_name: "EventVision Studio"
+  research_takeaway: "论文把 Video Diffusion Models 用于事件流的长时视频重建、预测和插帧，并统一处理多个事件视觉任务；实验验证该生成式方法能从稀疏事件数据恢复连续画面；这对弱光、高速运动场景的可视化质量和事件相机算法开发效率有提升价值。"
   one_liner: "把事件相机数据快速重建成可查看、可预测、可导出的长时视频。"
   target_customers: ["机器人视觉团队", "自动驾驶研发团队", "工业高速检测团队"]
   pain_point: "事件相机适合高速和弱光场景，但原始事件流难以给工程师直观看懂，数据回放和算法排错成本高。"
@@ -26,6 +28,7 @@
 
 "Wat3R: Underwater 3D Geometry Learning without Annotations":
   product_name: "AquaMap 3D"
+  research_takeaway: "论文采用无需人工标注的水下三维几何学习方法，从水下影像中学习结构与相机关系；实验验证缺少标注时仍可恢复水下场景几何；这对 ROV 定位、海底建模和水下巡检的数据制作成本有提升价值。"
   one_liner: "从水下巡检视频自动生成三维结构、缺陷位置和可复查的测量报告。"
   target_customers: ["水下机器人公司", "海上风电运维商", "船体与港口巡检团队"]
   pain_point: "水下能见度低、定位困难，人工观看长视频既慢又难把缺陷准确映射到三维位置。"
@@ -39,6 +42,7 @@
 
 "Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance":
   product_name: "HCC MDT Copilot"
+  research_takeaway: "论文采用面向肝细胞癌的临床推理 LLM，把风险分层与治疗建议放进同一推理链；临床任务评测验证领域化推理能更一致地组织患者证据和治疗依据；这对 MDT 准备效率、风险判断一致性和治疗建议可追溯性有提升价值。"
   one_liner: "面向肝癌多学科会诊的风险分层、治疗选项与证据追踪工作台。"
   target_customers: ["肿瘤中心", "肝胆外科科室", "临床研究机构"]
   pain_point: "分期系统颗粒度粗、病例资料分散，MDT 准备耗时且治疗依据难以回溯。"
@@ -52,6 +56,7 @@
 
 "DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation":
   product_name: "DSpark Accelerator"
+  research_takeaway: "论文采用置信度调度的 Speculative Decoding，并结合半自回归生成动态决定草稿接受策略；实验验证在保持生成质量的同时可以减少逐 Token 解码开销；这对 LLM 推理吞吐、首字延迟和单位请求成本有提升价值。"
   one_liner: "自动评估并部署推测解码策略，帮助 LLM 产品降低延迟与推理成本。"
   target_customers: ["LLM API 团队", "高并发 AI SaaS", "私有模型平台"]
   pain_point: "不同模型与负载下的推测解码参数难调，优化收益缺少持续测量。"
@@ -65,6 +70,7 @@
 
 "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks":
   product_name: "Agent QA Lab"
+  research_takeaway: "论文构建 UniClawBench，用真实世界任务统一评测主动型 Agent，并记录任务执行过程与失败类型；基准实验验证现有 Agent 在跨环境主动执行上仍存在明显可靠性差距；这对 Agent 回归测试、版本选型和上线风险识别有提升价值。"
   one_liner: "为浏览器和桌面 Agent 提供真实任务回放、成功率评测与回归监控。"
   target_customers: ["Agent 创业团队", "企业自动化团队", "模型评测团队"]
   pain_point: "Agent Demo 能跑但上线后不稳定，缺少真实任务集和跨版本回归证据。"
@@ -78,6 +84,7 @@
 
 "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents":
   product_name: "Causal Analyst"
+  research_takeaway: "论文通过 CausalDS 专门测试 Data-Science Agent 的因果推理，而非只检查代码或最终答案；评测验证很多 Agent 容易把相关性误当成因果关系；这对分析结论可靠性、实验设计审查和数据决策可解释性有提升价值。"
   one_liner: "带假设检查、因果图和可审计报告的数据分析 Copilot。"
   target_customers: ["增长分析团队", "生命科学分析师", "咨询公司"]
   pain_point: "普通数据 Agent 容易把相关性当因果，结论难以审计和复现。"
@@ -91,6 +98,7 @@
 
 "HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales":
   product_name: "HumanForge Verify"
+  research_takeaway: "论文构建以人为中心的 Deepfake Video Benchmark，并利用 Multi-Agent 生成伪造理由和细粒度解释；实验验证只判断真假不足以覆盖真实审核需求；这对伪造定位、审核解释质量和检测系统压力测试有提升价值。"
   one_liner: "面向媒体与理赔流程的深伪视频风险检测和可解释取证 API。"
   target_customers: ["媒体平台", "保险理赔团队", "品牌安全团队"]
   pain_point: "检测结果缺少可解释证据，人工复核视频成本高且标准不一致。"
@@ -104,6 +112,7 @@
 
 "The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality":
   product_name: "Context Access Audit"
+  research_takeaway: "论文从交互层架构分析 Agent 能访问多少上下文、工具和反馈，并把它作为能力差异的新维度；研究论证相同模型在不同 Context Access 条件下会产生系统性表现差距；这对 Agent 权限设计、公平性审计和失败归因有提升价值。"
   one_liner: "审计组织中不同用户和 Agent 能访问哪些上下文、工具与决策能力。"
   target_customers: ["大型企业 AI 治理团队", "公共部门", "咨询公司"]
   pain_point: "权限配置只看数据访问，忽略 Agent 在交互层获得的上下文和行动差异。"
@@ -117,6 +126,7 @@
 
 "Do Transformations Reveal the Truth? Generative Residual Learning for Generalized AI-Generated Image Detection":
   product_name: "Authenticity Check"
+  research_takeaway: "论文采用 Generative Residual Learning，让模型学习图像变换前后的生成残差，而不是依赖单一生成器痕迹；实验验证残差信号有助于识别未见过的 AI 生成图像；这对跨模型检测泛化和内容真实性审核稳定性有提升价值。"
   one_liner: "为电商、内容审核和编辑团队提供 AI 图片真实性检查。"
   target_customers: ["电商平台", "新闻编辑部", "内容审核团队"]
   pain_point: "生成图片来源不透明，审核员缺少快速、统一的风险筛查工具。"
@@ -130,6 +140,7 @@
 
 "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning":
   product_name: "Materials Reasoning Desk"
+  research_takeaway: "论文采用原生结构推理，把材料结构、属性关系和推理依据放进统一模型；跨学科实验验证显式结构推理能够给出更准确且透明的结构—属性解释；这对材料筛选效率、研究可解释性和跨领域知识复用有提升价值。"
   one_liner: "帮助材料研发团队连接结构、性能、文献证据与实验假设。"
   target_customers: ["材料研发实验室", "化工企业", "电池与半导体团队"]
   pain_point: "跨学科结构—性能知识分散，实验设计依赖少数资深研究员。"
@@ -143,6 +154,7 @@
 
 "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation":
   product_name: "ARDY Motion Studio"
+  research_takeaway: "论文把 Autoregressive 模型与 Diffusion 的混合表示结合，用历史动作逐步生成可交互的人体运动；实验验证该方法兼顾长时动作连贯性与局部控制；这对动作生成质量、交互响应和动画迭代效率有提升价值。"
   one_liner: "面向游戏和动画团队的可交互人物动作生成与快速迭代工具。"
   target_customers: ["独立游戏工作室", "动画团队", "虚拟人产品"]
   pain_point: "动作捕捉昂贵，生成动作难以按导演反馈快速修改。"
@@ -156,6 +168,7 @@
 
 "Wake up for Touch! Mask-isolated Tactile Alignment Learning in MLLMs":
   product_name: "Tactile Alignment Kit"
+  research_takeaway: "论文采用 Mask-isolated Tactile Alignment，把触觉区域从视觉背景中隔离后与语言语义对齐；实验验证减少背景干扰能改善 MLLM 对触觉信息的理解；这对机器人材质识别、接触判断和多模态操作可靠性有提升价值。"
   one_liner: "为机器人团队提供触觉数据对齐、标注质量检查和多模态评测。"
   target_customers: ["机器人实验室", "工业抓取集成商", "触觉传感器厂商"]
   pain_point: "触觉、视觉和语言数据难对齐，模型失败原因无法快速定位。"
@@ -169,6 +182,7 @@
 
 "AlayaWorld: Long-Horizon and Playable Video World Generation":
   product_name: "AlayaWorld Prototyper"
+  research_takeaway: "论文采用长时可交互 Video World Generation，让模型根据用户动作持续生成可玩的世界状态；实验验证生成视频能够保持更长时间的一致性并响应控制输入；这对游戏原型速度、交互场景生成和世界模型研究有提升价值。"
   one_liner: "用可交互视频世界帮助游戏团队快速验证场景、美术方向和玩法。"
   target_customers: ["游戏原型团队", "虚拟制作工作室", "互动广告团队"]
   pain_point: "玩法和场景原型制作慢，概念阶段需要大量临时资产。"
@@ -182,6 +196,7 @@
 
 "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation":
   product_name: "Idea Lineage Intelligence"
+  research_takeaway: "论文把科学想法表示成可追踪的 Lineage，并建立基准测试模型能否识别思想来源及生成有谱系依据的新想法；实验验证现有模型在科学传承关系上仍有明显缺口；这对文献溯源、创新性审查和研究选题质量有提升价值。"
   one_liner: "追踪研究想法的技术谱系，帮助 R&D 和专利团队判断新颖性与机会空白。"
   target_customers: ["企业 R&D 战略团队", "专利分析团队", "科技投资机构"]
   pain_point: "文献数量巨大，想法来源、演变和真正空白难以人工追踪。"
@@ -195,6 +210,7 @@
 
 "UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma":
   product_name: "Exploration Optimizer"
+  research_takeaway: "论文提出 Unbounded Positive Asymmetric Optimization，对正向探索信号采用非对称更新以缓解探索与稳定性的冲突；实验验证该优化方式能在扩大探索时减少性能震荡；这对强化学习训练稳定性、搜索效率和策略上限有提升价值。"
   one_liner: "诊断模型训练中的探索—稳定性问题，并推荐可复现的优化配置。"
   target_customers: ["强化学习团队", "后训练团队", "机器人策略团队"]
   pain_point: "训练超参数依赖经验，探索不足或不稳定会浪费大量算力。"
@@ -208,6 +224,7 @@
 
 "Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo":
   product_name: "Pharo Copilot"
+  research_takeaway: "论文通过面向 Pharo 的领域数据与训练策略增强低资源语言代码补全；实验验证针对语言生态补充专用知识能改善通用 LLM 的 Pharo 代码生成；这对小众语言补全准确率、开发速度和遗留系统维护有提升价值。"
   one_liner: "为仍在使用 Pharo 的团队提供代码补全、解释、测试和迁移辅助。"
   target_customers: ["Pharo 企业用户", "遗留系统维护商", "教育机构"]
   pain_point: "小众语言缺少现代 AI 工具，资深开发者流失导致维护和迁移困难。"
@@ -221,6 +238,7 @@
 
 "OpenCoF: Learning to Reason Through Video Generation":
   product_name: "Video Reasoning Foundry"
+  research_takeaway: "论文提出 OpenCoF，让模型通过生成视频过程学习时间变化和物理事件，而不只读取静态帧；实验验证生成过程可作为 Video Reasoning 的中间推理载体；这对时序理解、因果判断和复杂视频问答有提升价值。"
   one_liner: "为视频 Agent 和机器人视觉团队生成带推理过程的合成训练数据。"
   target_customers: ["视频理解团队", "机器人视觉团队", "多模态模型实验室"]
   pain_point: "复杂视频推理数据昂贵，人工标注难覆盖因果和时序变化。"
@@ -234,6 +252,7 @@
 
 "DrugGen 2: A disease-aware language model for enhancing drug discovery":
   product_name: "DrugGen Workspace"
+  research_takeaway: "论文构建 disease-aware DrugGen 2，把疾病语境直接引入分子语言模型的候选生成；实验验证疾病条件能够约束生成空间并提高候选与目标适应症的相关性；这对先导化合物筛选效率和早期药物发现方向性有提升价值。"
   one_liner: "围绕特定疾病靶点的分子想法生成、筛选与证据记录工作区。"
   target_customers: ["早期生物科技公司", "CRO", "药物化学研究组"]
   pain_point: "分子设计迭代慢，疾病上下文、筛选依据和实验反馈难以统一记录。"
@@ -247,6 +266,7 @@
 
 "When the Judge Changes, So Does the Measurement: Auditing LLM-as-Judge Reliability":
   product_name: "Judge Reliability Auditor"
+  research_takeaway: "论文系统更换不同 LLM-as-Judge 并比较同一批答案的评分变化；实验验证评测结果会随 Judge 模型、提示和尺度发生显著漂移；这对模型排行榜可信度、自动验收稳定性和评测治理有提升价值。"
   one_liner: "检测 LLM-as-Judge 在模型、提示词和样本变化下的评分漂移与偏差。"
   target_customers: ["AI 质量团队", "模型评测平台", "生成式 AI 产品团队"]
   pain_point: "团队依赖 LLM 评审，但评审器变化会让指标不可比，错误发布难以追责。"
@@ -260,6 +280,7 @@
 
 "Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition":
   product_name: "Action Shortcut Debugger"
+  research_takeaway: "论文针对 Zero-Shot Compositional Action Recognition 中的物体捷径，设计方法让模型减少依赖物体身份、更多关注动作关系；实验验证缓解 Shortcut 后对未见动作组合的识别更稳健；这对视频理解泛化和动作识别可靠性有提升价值。"
   one_liner: "发现视觉模型依赖物体捷径而不是真正理解动作组合的问题。"
   target_customers: ["机器人视觉团队", "零售行为分析团队", "视频模型实验室"]
   pain_point: "模型在基准上表现良好，却因场景和物体变化在真实动作任务中失效。"
@@ -273,6 +294,7 @@
 
 "A Quantized Native Runtime for On-Device Semantic Audio Generation":
   product_name: "Edge Audio Runtime"
+  research_takeaway: "论文设计 Quantized Native Runtime，把 Semantic Audio Generation 的模型与算子针对端侧硬件量化和原生执行；实验验证无需云端即可完成可用的音频生成；这对设备延迟、隐私保护和推理能耗有提升价值。"
   one_liner: "让移动端和 IoT 设备离线运行语义音频生成，降低云成本和隐私风险。"
   target_customers: ["移动应用团队", "智能硬件 OEM", "游戏音频团队"]
   pain_point: "云端音频生成延迟高、成本高，敏感音频不适合上传。"
@@ -286,6 +308,7 @@
 
 "Super Weights in LLMs and the Failure of Selective Training":
   product_name: "Super Weight Inspector"
+  research_takeaway: "论文分析 LLM 中少量 Super Weights 对整体能力的异常影响，并检验只训练这些权重的效果；实验验证关键权重虽重要，但 Selective Training 不能替代完整训练；这对模型压缩判断、微调策略和风险诊断有提升价值。"
   one_liner: "定位模型关键权重和选择性训练风险，避免昂贵微调产生不可见退化。"
   target_customers: ["基础模型团队", "模型压缩团队", "企业微调平台"]
   pain_point: "选择性训练和压缩可能破坏少量关键权重，常规指标难以及时发现。"
@@ -299,6 +322,7 @@
 
 "Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity":
   product_name: "Sparse Memory Runtime"
+  research_takeaway: "论文提出 Sparse Delta Memory，用稀疏增量方式扩展 Linear RNN 的状态容量；实验验证更大的记忆状态不必按同等比例增加计算开销；这对长序列建模、推理内存效率和流式任务上下文保持有提升价值。"
   one_liner: "为边缘序列模型提供稀疏状态内存库，扩大上下文同时控制延迟和内存。"
   target_customers: ["边缘 AI 团队", "时序传感器产品", "低延迟模型平台"]
   pain_point: "长序列状态占用内存，边缘设备难以维持低延迟和长上下文。"

@@ -119,7 +119,7 @@ def test_real_top_21_has_complete_curated_playbooks(tmp_path: Path) -> None:
     for item in merged:
         assert item["playbook_status"] == "curated"
         for field in (
-            "product_name", "one_liner", "target_customers", "pain_point", "mvp",
+            "product_name", "research_takeaway", "one_liner", "target_customers", "pain_point", "mvp",
             "pricing_unit", "pilot_price", "steady_state_pricing", "acquisition",
             "validation_30d", "risks",
         ):
@@ -152,6 +152,10 @@ def test_builds_a_self_contained_interactive_dashboard(tmp_path: Path) -> None:
     assert '"product_name": "HCC MDT Copilot"' in html
     assert '"product_name": "Sparse Memory Runtime"' in html
     assert '"candidate_count": 37' in html
+    assert "论文结论" in html
+    assert "创始人机会看板" in html
+    assert "Founder opportunity terminal" not in html
+    assert "Rank ${p.rank}" not in html
     assert "fetch(" not in html
     assert len(html.encode("utf-8")) < 1_000_000
 
