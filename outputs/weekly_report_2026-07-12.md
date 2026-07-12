@@ -2,7 +2,7 @@
 
 ## 1. Executive Summary
 
-This week's selected portfolio is led by agents_workflow: 7, vertical_ai: 3, infrastructure: 3, robotics: 3, multimodal: 2, general_ai: 2, non_ai_commercial: 1.
+This week's selected portfolio is led by agents_workflow: 7, multimodal: 5, general_ai: 5, infrastructure: 3, vertical_ai: 1.
 Commercial priority is given to narrow workflow products, reusable AI skills, and fast customer validation.
 The strongest solo-founder opportunities combine accessible code, a specific buyer, and an MVP that can be tested in weeks.
 
@@ -10,327 +10,327 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 
 | Rank | Title | Category | Total Score | Product Idea | Solo Founder Fit | Link |
 | ---: | --- | --- | ---: | --- | ---: | --- |
-| 1 | Contract Navigator Agent | agents_workflow | 73.48 | Turn the method into a narrow workflow copilot. | 81 | [Paper](https://example.com/papers/contract-navigator) |
-| 2 | Support Workflow Planner | agents_workflow | 72.86 | Turn the method into a narrow workflow copilot. | 81 | [Paper](https://example.com/papers/support-planner) |
-| 3 | Procurement Negotiation Copilot | agents_workflow | 71.63 | Turn the method into a narrow workflow copilot. | 79 | [Paper](https://example.com/papers/procurement-copilot) |
-| 4 | Cyber Incident Timeline Agent | agents_workflow | 65.54 | Turn the method into a narrow workflow copilot. | 77 | [Paper](https://example.com/papers/cyber-timeline) |
-| 5 | Browser Operations Agent | agents_workflow | 63.50 | Turn the method into a narrow workflow copilot. | 77 | [Paper](https://example.com/papers/browser-ops) |
-| 6 | Code Migration Crew | agents_workflow | 63.39 | Turn the method into a narrow workflow copilot. | 77 | [Paper](https://example.com/papers/code-migration) |
-| 7 | Clinical Intake Copilot | vertical_ai | 62.38 | Build a domain-specific assistant with auditable workflows. | 77 | [Paper](https://example.com/papers/clinical-intake) |
-| 8 | LLM Cost Profile Observatory | infrastructure | 59.55 | Expose the method as an observability, evaluation, or deployment service. | 75 | [Paper](https://example.com/papers/cost-observatory) |
-| 9 | Robot Fleet Task Scheduler | robotics | 59.13 | Offer simulation, testing, or monitoring before hardware deployment. | 73 | [Paper](https://example.com/papers/fleet-scheduler) |
-| 10 | Voice Triage Assistant | multimodal | 58.62 | Package the capability as a media-processing API and review tool. | 75 | [Paper](https://example.com/papers/voice-triage) |
-| 11 | Evaluation Trace Graph | infrastructure | 57.50 | Expose the method as an observability, evaluation, or deployment service. | 73 | [Paper](https://example.com/papers/eval-trace) |
-| 12 | Inference Cache Router | infrastructure | 57.15 | Expose the method as an observability, evaluation, or deployment service. | 75 | [Paper](https://example.com/papers/cache-router) |
-| 13 | Prompt Workflow Compiler | agents_workflow | 56.95 | Turn the method into a narrow workflow copilot. | 75 | [Paper](https://example.com/papers/prompt-compiler) |
-| 14 | Warehouse Grasp Simulator | robotics | 56.81 | Offer simulation, testing, or monitoring before hardware deployment. | 73 | [Paper](https://example.com/papers/grasp-simulator) |
-| 15 | Personalized Commerce Ranker | general_ai | 54.75 | Validate one repeatable user job before expanding the product. | 73 | [Paper](https://example.com/papers/commerce-ranker) |
-| 16 | Home Navigation Policy | robotics | 54.61 | Offer simulation, testing, or monitoring before hardware deployment. | 73 | [Paper](https://example.com/papers/home-navigation) |
-| 17 | Crop Disease Field Assistant | multimodal | 54.56 | Package the capability as a media-processing API and review tool. | 73 | [Paper](https://example.com/papers/crop-disease) |
-| 18 | Adaptive Tutor Planner | vertical_ai | 54.31 | Build a domain-specific assistant with auditable workflows. | 73 | [Paper](https://example.com/papers/tutor-planner) |
-| 19 | Legal Clause Risk Model | vertical_ai | 50.95 | Build a domain-specific assistant with auditable workflows. | 62 | [Paper](https://example.com/papers/clause-risk) |
-| 20 | Supply Chain Disruption Signals | general_ai | 47.35 | Validate one repeatable user job before expanding the product. | 58 | [Paper](https://example.com/papers/supply-signals) |
-| 21 | Low Carbon Cement Discovery | non_ai_commercial | 45.45 | Translate the finding into a focused data or decision-support product. | 58 | [Paper](https://example.com/papers/cement-discovery) |
+| 1 | Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance | agents_workflow | 57.65 | Turn the method into a narrow workflow copilot. | 62 | [Paper](https://arxiv.org/abs/2607.08602) |
+| 2 | CausalDS: Benchmarking Causal Reasoning in Data-Science Agents | agents_workflow | 56.18 | Turn the method into a narrow workflow copilot. | 60 | [Paper](https://arxiv.org/abs/2607.08093) |
+| 3 | DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation | infrastructure | 55.89 | Expose the method as an observability, evaluation, or deployment service. | 60 | [Paper](https://arxiv.org/abs/2607.05147) |
+| 4 | UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks | agents_workflow | 55.81 | Turn the method into a narrow workflow copilot. | 60 | [Paper](https://arxiv.org/abs/2607.08768) |
+| 5 | HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales | agents_workflow | 55.60 | Turn the method into a narrow workflow copilot. | 60 | [Paper](https://arxiv.org/abs/2607.08705) |
+| 6 | The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality | agents_workflow | 55.25 | Turn the method into a narrow workflow copilot. | 62 | [Paper](https://arxiv.org/abs/2607.08495) |
+| 7 | Do Transformations Reveal the Truth? Generative Residual Learning for Generalized AI-Generated Image Detection | agents_workflow | 54.60 | Turn the method into a narrow workflow copilot. | 60 | [Paper](https://arxiv.org/abs/2607.08674) |
+| 8 | Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE | agents_workflow | 53.42 | Turn the method into a narrow workflow copilot. | 60 | [Paper](https://arxiv.org/abs/2607.07740) |
+| 9 | ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation | multimodal | 52.67 | Package the capability as a media-processing API and review tool. | 58 | [Paper](https://arxiv.org/abs/2607.08741) |
+| 10 | Wake up for Touch! Mask-isolated Tactile Alignment Learning in MLLMs | multimodal | 52.01 | Package the capability as a media-processing API and review tool. | 58 | [Paper](https://arxiv.org/abs/2607.00302) |
+| 11 | AlayaWorld: Long-Horizon and Playable Video World Generation | multimodal | 51.88 | Package the capability as a media-processing API and review tool. | 60 | [Paper](https://arxiv.org/abs/2607.06291) |
+| 12 | Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation | infrastructure | 51.44 | Expose the method as an observability, evaluation, or deployment service. | 58 | [Paper](https://arxiv.org/abs/2607.08758) |
+| 13 | UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma | multimodal | 51.37 | Package the capability as a media-processing API and review tool. | 58 | [Paper](https://arxiv.org/abs/2607.06987) |
+| 14 | OpenCoF: Learning to Reason Through Video Generation | multimodal | 50.69 | Package the capability as a media-processing API and review tool. | 58 | [Paper](https://arxiv.org/abs/2607.08763) |
+| 15 | Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo | infrastructure | 50.65 | Expose the method as an observability, evaluation, or deployment service. | 58 | [Paper](https://arxiv.org/abs/2607.04939) |
+| 16 | DrugGen 2: A disease-aware language model for enhancing drug discovery | vertical_ai | 49.06 | Build a domain-specific assistant with auditable workflows. | 58 | [Paper](https://arxiv.org/abs/2607.08404) |
+| 17 | When the Judge Changes, So Does the Measurement: Auditing LLM-as-Judge Reliability | general_ai | 48.90 | Validate one repeatable user job before expanding the product. | 60 | [Paper](https://arxiv.org/abs/2607.08535) |
+| 18 | Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition | general_ai | 45.59 | Validate one repeatable user job before expanding the product. | 58 | [Paper](https://arxiv.org/abs/2601.16211) |
+| 19 | A Quantized Native Runtime for On-Device Semantic Audio Generation | general_ai | 43.63 | Validate one repeatable user job before expanding the product. | 58 | [Paper](https://arxiv.org/abs/2607.08526) |
+| 20 | Super Weights in LLMs and the Failure of Selective Training | general_ai | 43.05 | Validate one repeatable user job before expanding the product. | 58 | [Paper](https://arxiv.org/abs/2607.08733) |
+| 21 | Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity | general_ai | 42.53 | Validate one repeatable user job before expanding the product. | 58 | [Paper](https://arxiv.org/abs/2607.07386) |
 
 ## 3. Detailed Analysis
 
-### 1. Contract Navigator Agent
+### 1. Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance
 
-- **Link:** https://example.com/papers/contract-navigator
-- **One-sentence summary:** An AI agent for legal document workflow automation and clause review.
+- **Link:** https://arxiv.org/abs/2607.08602
+- **One-sentence summary:** Hepatocellular carcinoma (HCC) is a common malignancy and a leading cause of cancer-related mortality. Current guidelines and staging systems provide coarse categories, but often miss within-stage heterogeneity and the clinical context in…
 - **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
 - **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
 - **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Contract Navigator Agent to one customer workflow.
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance to one customer workflow.
 - **Target customers:** operations teams; consultants; SMBs
 - **MVP suggestion:** Turn the method into a narrow workflow copilot.
 - **Monetization:** Usage-based subscription
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 73.48/100 (medium confidence)
+- **Final score:** 57.65/100 (medium confidence)
 
-### 2. Support Workflow Planner
+### 2. CausalDS: Benchmarking Causal Reasoning in Data-Science Agents
 
-- **Link:** https://example.com/papers/support-planner
-- **One-sentence summary:** A multi-agent framework for enterprise customer support automation.
+- **Link:** https://arxiv.org/abs/2607.08093
+- **One-sentence summary:** Large language models (LLMs) increasingly act as integrated data-science agents, combining abstract reasoning with advanced tool use. Yet the relevant benchmark landscape largely divides into symbolic causal reasoning benchmarks without re…
 - **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
 - **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
 - **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Support Workflow Planner to one customer workflow.
+- **Possible AI Skill / Agent:** Create a reusable skill that applies CausalDS: Benchmarking Causal Reasoning in Data-Science Agents to one customer workflow.
 - **Target customers:** operations teams; consultants; SMBs
 - **MVP suggestion:** Turn the method into a narrow workflow copilot.
 - **Monetization:** Usage-based subscription
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 72.86/100 (medium confidence)
+- **Final score:** 56.18/100 (medium confidence)
 
-### 3. Procurement Negotiation Copilot
+### 3. DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation
 
-- **Link:** https://example.com/papers/procurement-copilot
-- **One-sentence summary:** An enterprise AI agent for supplier comparison and procurement workflow automation.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Procurement Negotiation Copilot to one customer workflow.
-- **Target customers:** operations teams; consultants; SMBs
-- **MVP suggestion:** Turn the method into a narrow workflow copilot.
-- **Monetization:** Usage-based subscription
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 71.63/100 (medium confidence)
-
-### 4. Cyber Incident Timeline Agent
-
-- **Link:** https://example.com/papers/cyber-timeline
-- **One-sentence summary:** A cybersecurity AI agent that reconstructs incidents from enterprise logs.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Cyber Incident Timeline Agent to one customer workflow.
-- **Target customers:** operations teams; consultants; SMBs
-- **MVP suggestion:** Turn the method into a narrow workflow copilot.
-- **Monetization:** Usage-based subscription
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 65.54/100 (medium confidence)
-
-### 5. Browser Operations Agent
-
-- **Link:** https://example.com/papers/browser-ops
-- **One-sentence summary:** A workflow automation agent that completes repetitive browser tasks.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Browser Operations Agent to one customer workflow.
-- **Target customers:** operations teams; consultants; SMBs
-- **MVP suggestion:** Turn the method into a narrow workflow copilot.
-- **Monetization:** Usage-based subscription
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 63.50/100 (medium confidence)
-
-### 6. Code Migration Crew
-
-- **Link:** https://example.com/papers/code-migration
-- **One-sentence summary:** A multi-agent software engineering workflow for API migrations.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Code Migration Crew to one customer workflow.
-- **Target customers:** operations teams; consultants; SMBs
-- **MVP suggestion:** Turn the method into a narrow workflow copilot.
-- **Monetization:** Usage-based subscription
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 63.39/100 (medium confidence)
-
-### 7. Clinical Intake Copilot
-
-- **Link:** https://example.com/papers/clinical-intake
-- **One-sentence summary:** Medical AI for structured patient intake and document review.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：垂直行业 AI 助手。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Clinical Intake Copilot to one customer workflow.
-- **Target customers:** domain professionals; specialist firms
-- **MVP suggestion:** Build a domain-specific assistant with auditable workflows.
-- **Monetization:** Per-seat SaaS
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 62.38/100 (medium confidence)
-
-### 8. LLM Cost Profile Observatory
-
-- **Link:** https://example.com/papers/cost-observatory
-- **One-sentence summary:** Developer infrastructure for tracing model quality, latency and API cost.
+- **Link:** https://arxiv.org/abs/2607.05147
+- **One-sentence summary:** Speculative decoding accelerates Large Language Model (LLM) inference by decoupling draft generation from target verification. While recent parallel drafters efficiently propose long token sequences in a single forward pass, they suffer fr…
 - **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
 - **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
 - **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：AI 开发者基础设施服务。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies LLM Cost Profile Observatory to one customer workflow.
+- **Possible AI Skill / Agent:** Create a reusable skill that applies DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation to one customer workflow.
 - **Target customers:** AI engineers; product teams
 - **MVP suggestion:** Expose the method as an observability, evaluation, or deployment service.
 - **Monetization:** Tiered developer plans
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 59.55/100 (medium confidence)
+- **Final score:** 55.89/100 (medium confidence)
 
-### 9. Robot Fleet Task Scheduler
+### 4. UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks
 
-- **Link:** https://example.com/papers/fleet-scheduler
-- **One-sentence summary:** A robotics framework for coordinating embodied AI fleets in small warehouses.
+- **Link:** https://arxiv.org/abs/2607.08768
+- **One-sentence summary:** The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing ben…
 - **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
 - **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：机器人仿真与评测工具。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Robot Fleet Task Scheduler to one customer workflow.
-- **Target customers:** robotics labs; automation teams
-- **MVP suggestion:** Offer simulation, testing, or monitoring before hardware deployment.
-- **Monetization:** Developer subscription
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks to one customer workflow.
+- **Target customers:** operations teams; consultants; SMBs
+- **MVP suggestion:** Turn the method into a narrow workflow copilot.
+- **Monetization:** Usage-based subscription
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 59.13/100 (medium confidence)
+- **Final score:** 55.81/100 (medium confidence)
 
-### 10. Voice Triage Assistant
+### 5. HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales
 
-- **Link:** https://example.com/papers/voice-triage
-- **One-sentence summary:** A speech AI system for routing calls and summarizing customer needs.
+- **Link:** https://arxiv.org/abs/2607.08705
+- **One-sentence summary:** Rapid advancements in video diffusion models and temporal editing tools have enabled the generation of highly realistic human-centric videos, posing unprecedented challenges to digital content forensics. Existing benchmarks primarily focus…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales to one customer workflow.
+- **Target customers:** operations teams; consultants; SMBs
+- **MVP suggestion:** Turn the method into a narrow workflow copilot.
+- **Monetization:** Usage-based subscription
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 55.60/100 (medium confidence)
+
+### 6. The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality
+
+- **Link:** https://arxiv.org/abs/2607.08495
+- **One-sentence summary:** Sharp et al. (2025) introduce "agentic inequality" as a framework for analyzing disparities in access to AI agents across three dimensions: availability, quality, and quantity. These person- and organization-level dimensions characterize w…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality to one customer workflow.
+- **Target customers:** operations teams; consultants; SMBs
+- **MVP suggestion:** Turn the method into a narrow workflow copilot.
+- **Monetization:** Usage-based subscription
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 55.25/100 (medium confidence)
+
+### 7. Do Transformations Reveal the Truth? Generative Residual Learning for Generalized AI-Generated Image Detection
+
+- **Link:** https://arxiv.org/abs/2607.08674
+- **One-sentence summary:** The rapid advancement of generative AI has enabled the creation of highly realistic deepfake media, posing significant threats, including misinformation, digital identity theft, fraud, and manipulation of public opinion. AI-generated image…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Do Transformations Reveal the Truth? Generative Residual Learning for Generalized AI-Generated Image Detection to one customer workflow.
+- **Target customers:** operations teams; consultants; SMBs
+- **MVP suggestion:** Turn the method into a narrow workflow copilot.
+- **Monetization:** Usage-based subscription
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 54.60/100 (medium confidence)
+
+### 8. Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE
+
+- **Link:** https://arxiv.org/abs/2607.07740
+- **One-sentence summary:** Modern LLMs are increasingly deployed in long-context applications such as retrieval-augmented generation, repository-level coding, and agentic workflows whose accumulated reasoning and tool traces routinely push the input an order of magn…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE to one customer workflow.
+- **Target customers:** operations teams; consultants; SMBs
+- **MVP suggestion:** Turn the method into a narrow workflow copilot.
+- **Monetization:** Usage-based subscription
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 53.42/100 (medium confidence)
+
+### 9. ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation
+
+- **Link:** https://arxiv.org/abs/2607.08741
+- **One-sentence summary:** Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer precise control via text and kinematic cons…
 - **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
 - **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
 - **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：多模态内容处理 API。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Voice Triage Assistant to one customer workflow.
+- **Possible AI Skill / Agent:** Create a reusable skill that applies ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation to one customer workflow.
 - **Target customers:** content teams; e-commerce sellers
 - **MVP suggestion:** Package the capability as a media-processing API and review tool.
 - **Monetization:** API credits plus team plans
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 58.62/100 (medium confidence)
+- **Final score:** 52.67/100 (medium confidence)
 
-### 11. Evaluation Trace Graph
+### 10. Wake up for Touch! Mask-isolated Tactile Alignment Learning in MLLMs
 
-- **Link:** https://example.com/papers/eval-trace
-- **One-sentence summary:** A developer benchmark for tracing and evaluating LLM applications.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：AI 开发者基础设施服务。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Evaluation Trace Graph to one customer workflow.
-- **Target customers:** AI engineers; product teams
-- **MVP suggestion:** Expose the method as an observability, evaluation, or deployment service.
-- **Monetization:** Tiered developer plans
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 57.50/100 (medium confidence)
-
-### 12. Inference Cache Router
-
-- **Link:** https://example.com/papers/cache-router
-- **One-sentence summary:** AI inference infrastructure that reduces latency and API cost.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：AI 开发者基础设施服务。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Inference Cache Router to one customer workflow.
-- **Target customers:** AI engineers; product teams
-- **MVP suggestion:** Expose the method as an observability, evaluation, or deployment service.
-- **Monetization:** Tiered developer plans
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 57.15/100 (medium confidence)
-
-### 13. Prompt Workflow Compiler
-
-- **Link:** https://example.com/papers/prompt-compiler
-- **One-sentence summary:** A compiler for reliable AI workflow deployment and testing.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：面向单一工作流的 AI Agent SaaS。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Prompt Workflow Compiler to one customer workflow.
-- **Target customers:** operations teams; consultants; SMBs
-- **MVP suggestion:** Turn the method into a narrow workflow copilot.
-- **Monetization:** Usage-based subscription
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 56.95/100 (medium confidence)
-
-### 14. Warehouse Grasp Simulator
-
-- **Link:** https://example.com/papers/grasp-simulator
-- **One-sentence summary:** A robotics benchmark for embodied manipulation in warehouses.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：机器人仿真与评测工具。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Warehouse Grasp Simulator to one customer workflow.
-- **Target customers:** robotics labs; automation teams
-- **MVP suggestion:** Offer simulation, testing, or monitoring before hardware deployment.
-- **Monetization:** Developer subscription
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 56.81/100 (medium confidence)
-
-### 15. Personalized Commerce Ranker
-
-- **Link:** https://example.com/papers/commerce-ranker
-- **One-sentence summary:** A recommendation learning model for small e-commerce catalogs.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：窄场景 AI 效率工具。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Personalized Commerce Ranker to one customer workflow.
-- **Target customers:** knowledge workers; small teams
-- **MVP suggestion:** Validate one repeatable user job before expanding the product.
-- **Monetization:** Freemium SaaS
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 54.75/100 (medium confidence)
-
-### 16. Home Navigation Policy
-
-- **Link:** https://example.com/papers/home-navigation
-- **One-sentence summary:** A robotics method for safe household navigation with language instructions.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：机器人仿真与评测工具。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Home Navigation Policy to one customer workflow.
-- **Target customers:** robotics labs; automation teams
-- **MVP suggestion:** Offer simulation, testing, or monitoring before hardware deployment.
-- **Monetization:** Developer subscription
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 54.61/100 (medium confidence)
-
-### 17. Crop Disease Field Assistant
-
-- **Link:** https://example.com/papers/crop-disease
-- **One-sentence summary:** A vision language model for agriculture disease identification on edge devices.
+- **Link:** https://arxiv.org/abs/2607.00302
+- **One-sentence summary:** Touch supplies the physical grounding needed to perceive intrinsic material properties, such as friction and compliance, that vision alone often cannot resolve. Recent efforts for equipping multimodal LLMs with this tactile sense, however,…
 - **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
 - **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
 - **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：多模态内容处理 API。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Crop Disease Field Assistant to one customer workflow.
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Wake up for Touch! Mask-isolated Tactile Alignment Learning in MLLMs to one customer workflow.
 - **Target customers:** content teams; e-commerce sellers
 - **MVP suggestion:** Package the capability as a media-processing API and review tool.
 - **Monetization:** API credits plus team plans
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 54.56/100 (medium confidence)
+- **Final score:** 52.01/100 (medium confidence)
 
-### 18. Adaptive Tutor Planner
+### 11. AlayaWorld: Long-Horizon and Playable Video World Generation
 
-- **Link:** https://example.com/papers/tutor-planner
-- **One-sentence summary:** Education AI that personalizes lesson plans from student progress.
+- **Link:** https://arxiv.org/abs/2607.06291
+- **One-sentence summary:** Game worlds have traditionally been built through labor-intensive production pipelines, making them costly to develop, difficult to customization, and expensive to modify after deployment. Recent advances in video world models offer a fund…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：多模态内容处理 API。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies AlayaWorld: Long-Horizon and Playable Video World Generation to one customer workflow.
+- **Target customers:** content teams; e-commerce sellers
+- **MVP suggestion:** Package the capability as a media-processing API and review tool.
+- **Monetization:** API credits plus team plans
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 51.88/100 (medium confidence)
+
+### 12. Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation
+
+- **Link:** https://arxiv.org/abs/2607.08758
+- **One-sentence summary:** Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say little about whether AI systems can follow…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：AI 开发者基础设施服务。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation to one customer workflow.
+- **Target customers:** AI engineers; product teams
+- **MVP suggestion:** Expose the method as an observability, evaluation, or deployment service.
+- **Monetization:** Tiered developer plans
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 51.44/100 (medium confidence)
+
+### 13. UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma
+
+- **Link:** https://arxiv.org/abs/2607.06987
+- **One-sentence summary:** Reinforcement learning (RL) has become the standard paradigm for enhancing the complex reasoning capabilities of large language models (LLMs). To achieve sample efficiency, modern RL frameworks rely on importance sampling (IS). However, th…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：多模态内容处理 API。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma to one customer workflow.
+- **Target customers:** content teams; e-commerce sellers
+- **MVP suggestion:** Package the capability as a media-processing API and review tool.
+- **Monetization:** API credits plus team plans
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 51.37/100 (medium confidence)
+
+### 14. OpenCoF: Learning to Reason Through Video Generation
+
+- **Link:** https://arxiv.org/abs/2607.08763
+- **One-sentence summary:** Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): re…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：多模态内容处理 API。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies OpenCoF: Learning to Reason Through Video Generation to one customer workflow.
+- **Target customers:** content teams; e-commerce sellers
+- **MVP suggestion:** Package the capability as a media-processing API and review tool.
+- **Monetization:** API credits plus team plans
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 50.69/100 (medium confidence)
+
+### 15. Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo
+
+- **Link:** https://arxiv.org/abs/2607.04939
+- **One-sentence summary:** Large Language Models (LLMs) unlocked new possibilities in automated code writing, becoming the backbone of most code completion tools. While LLMs excel in mainstream languages, they often lack support for the so-called low-resource langua…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：AI 开发者基础设施服务。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo to one customer workflow.
+- **Target customers:** AI engineers; product teams
+- **MVP suggestion:** Expose the method as an observability, evaluation, or deployment service.
+- **Monetization:** Tiered developer plans
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 50.65/100 (medium confidence)
+
+### 16. DrugGen 2: A disease-aware language model for enhancing drug discovery
+
+- **Link:** https://arxiv.org/abs/2607.08404
+- **One-sentence summary:** Current computational approaches for drug design typically focus on generating molecules conditioned on specific targets or general molecular properties, often neglecting the influence of disease context on target behavior and therapeutic…
 - **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
 - **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
 - **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：垂直行业 AI 助手。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Adaptive Tutor Planner to one customer workflow.
+- **Possible AI Skill / Agent:** Create a reusable skill that applies DrugGen 2: A disease-aware language model for enhancing drug discovery to one customer workflow.
 - **Target customers:** domain professionals; specialist firms
 - **MVP suggestion:** Build a domain-specific assistant with auditable workflows.
 - **Monetization:** Per-seat SaaS
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 54.31/100 (medium confidence)
+- **Final score:** 49.06/100 (low confidence)
 
-### 19. Legal Clause Risk Model
+### 17. When the Judge Changes, So Does the Measurement: Auditing LLM-as-Judge Reliability
 
-- **Link:** https://example.com/papers/clause-risk
-- **One-sentence summary:** Legal AI that detects risky clauses in enterprise contracts.
-- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
-- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：垂直行业 AI 助手。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Legal Clause Risk Model to one customer workflow.
-- **Target customers:** domain professionals; specialist firms
-- **MVP suggestion:** Build a domain-specific assistant with auditable workflows.
-- **Monetization:** Per-seat SaaS
-- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 50.95/100 (medium confidence)
-
-### 20. Supply Chain Disruption Signals
-
-- **Link:** https://example.com/papers/supply-signals
-- **One-sentence summary:** A new dataset and recommendation model for supplier risk and logistics planning.
+- **Link:** https://arxiv.org/abs/2607.08535
+- **One-sentence summary:** An LLM-as-judge score can move even when the candidate responses stay fixed, simply because the evaluator has changed. We treat this evaluator-replacement ambiguity as a measurement-validity problem. Across four judgment datasets, we compa…
 - **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
 - **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
 - **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：窄场景 AI 效率工具。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Supply Chain Disruption Signals to one customer workflow.
+- **Possible AI Skill / Agent:** Create a reusable skill that applies When the Judge Changes, So Does the Measurement: Auditing LLM-as-Judge Reliability to one customer workflow.
 - **Target customers:** knowledge workers; small teams
 - **MVP suggestion:** Validate one repeatable user job before expanding the product.
 - **Monetization:** Freemium SaaS
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 47.35/100 (low confidence)
+- **Final score:** 48.90/100 (low confidence)
 
-### 21. Low Carbon Cement Discovery
+### 18. Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition
 
-- **Link:** https://example.com/papers/cement-discovery
-- **One-sentence summary:** A material discovery dataset for commercially viable low-carbon cement.
+- **Link:** https://arxiv.org/abs/2601.16211
+- **One-sentence summary:** Zero-Shot Compositional Action Recognition (ZS-CAR) requires recognizing novel verb-object combinations composed of previously observed primitives. In this work, we tackle a key failure mode: models predict verbs via object-driven shortcut…
 - **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
 - **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
-- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：研究驱动的数据产品。
-- **Possible AI Skill / Agent:** Create a reusable skill that applies Low Carbon Cement Discovery to one customer workflow.
-- **Target customers:** analysts; specialist operators
-- **MVP suggestion:** Translate the finding into a focused data or decision-support product.
-- **Monetization:** Report and subscription sales
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：窄场景 AI 效率工具。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition to one customer workflow.
+- **Target customers:** knowledge workers; small teams
+- **MVP suggestion:** Validate one repeatable user job before expanding the product.
+- **Monetization:** Freemium SaaS
 - **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
-- **Final score:** 45.45/100 (low confidence)
+- **Final score:** 45.59/100 (low confidence)
+
+### 19. A Quantized Native Runtime for On-Device Semantic Audio Generation
+
+- **Link:** https://arxiv.org/abs/2607.08526
+- **One-sentence summary:** Semantic audio applications increasingly require controllable generation on commodity and embedded hardware rather than through framework-heavy datacenter stacks. We present aria, a dependency-free native runtime that runs the complete tex…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：窄场景 AI 效率工具。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies A Quantized Native Runtime for On-Device Semantic Audio Generation to one customer workflow.
+- **Target customers:** knowledge workers; small teams
+- **MVP suggestion:** Validate one repeatable user job before expanding the product.
+- **Monetization:** Freemium SaaS
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 43.63/100 (low confidence)
+
+### 20. Super Weights in LLMs and the Failure of Selective Training
+
+- **Link:** https://arxiv.org/abs/2607.08733
+- **One-sentence summary:** Recent work identified Super Weights, individual parameters whose removal degrades model performance by orders of magnitude. We show that this degradation due to pruning Super Weights does not universally apply to all LLMs. Furthermore, if…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：窄场景 AI 效率工具。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Super Weights in LLMs and the Failure of Selective Training to one customer workflow.
+- **Target customers:** knowledge workers; small teams
+- **MVP suggestion:** Validate one repeatable user job before expanding the product.
+- **Monetization:** Freemium SaaS
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 43.05/100 (low confidence)
+
+### 21. Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity
+
+- **Link:** https://arxiv.org/abs/2607.07386
+- **One-sentence summary:** Linear attention models allow a fixed state size and a fixed amount of compute per token. However, due to their limited state size, linear attention models fall behind in long-context recall compared to softmax-attention-based transformer…
+- **Core technical idea:** The paper introduces a product-relevant method, workflow, or evaluation signal.
+- **Why it matters:** It may reduce the cost or complexity of a repeatable user task.
+- **Commercial opportunity:** 优先把论文能力收窄成一个高频、可衡量的客户任务：窄场景 AI 效率工具。
+- **Possible AI Skill / Agent:** Create a reusable skill that applies Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity to one customer workflow.
+- **Target customers:** knowledge workers; small teams
+- **MVP suggestion:** Validate one repeatable user job before expanding the product.
+- **Monetization:** Freemium SaaS
+- **Risk:** The research result may not transfer to real customer data; validate quality and cost early.
+- **Final score:** 42.53/100 (low confidence)
 
 ## 4. Top 5 Solo Founder Opportunities
 
-### 1. Contract Navigator Agent
+### 1. Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance
 
 - **Why suitable:** Selected by deterministic commercial and feasibility signals.
 - **MVP:** Turn the method into a narrow workflow copilot.
@@ -338,7 +338,7 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Pricing:** Usage-based subscription
 - **30-day plan:** Week 1 interviews; Week 2 working demo; Week 3 paid pilots; Week 4 measure retention and decide whether to deepen the niche.
 
-### 2. Support Workflow Planner
+### 2. The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality
 
 - **Why suitable:** Selected by deterministic commercial and feasibility signals.
 - **MVP:** Turn the method into a narrow workflow copilot.
@@ -346,7 +346,7 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Pricing:** Usage-based subscription
 - **30-day plan:** Week 1 interviews; Week 2 working demo; Week 3 paid pilots; Week 4 measure retention and decide whether to deepen the niche.
 
-### 3. Procurement Negotiation Copilot
+### 3. CausalDS: Benchmarking Causal Reasoning in Data-Science Agents
 
 - **Why suitable:** Selected by deterministic commercial and feasibility signals.
 - **MVP:** Turn the method into a narrow workflow copilot.
@@ -354,15 +354,15 @@ The strongest solo-founder opportunities combine accessible code, a specific buy
 - **Pricing:** Usage-based subscription
 - **30-day plan:** Week 1 interviews; Week 2 working demo; Week 3 paid pilots; Week 4 measure retention and decide whether to deepen the niche.
 
-### 4. Cyber Incident Timeline Agent
+### 4. DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation
 
 - **Why suitable:** Selected by deterministic commercial and feasibility signals.
-- **MVP:** Turn the method into a narrow workflow copilot.
+- **MVP:** Expose the method as an observability, evaluation, or deployment service.
 - **First users:** Recruit five niche users through specialist communities and direct outreach.
-- **Pricing:** Usage-based subscription
+- **Pricing:** Tiered developer plans
 - **30-day plan:** Week 1 interviews; Week 2 working demo; Week 3 paid pilots; Week 4 measure retention and decide whether to deepen the niche.
 
-### 5. Browser Operations Agent
+### 5. UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks
 
 - **Why suitable:** Selected by deterministic commercial and feasibility signals.
 - **MVP:** Turn the method into a narrow workflow copilot.
