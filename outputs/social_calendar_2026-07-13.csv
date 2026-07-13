@@ -1,0 +1,463 @@
+﻿date,weekday,rank,paper_title,paper_url,x_post_time,x_post,x_thread,x_hashtags,xiaohongshu_post_time,xiaohongshu_title,xiaohongshu_body,xiaohongshu_tags,image_prompt
+2026-07-13,Monday,1,VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents,https://arxiv.org/abs/2607.09653,09:00,Paper #1 worth watching: VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents. Founder angle: turn it into turn the method into a narrow workflow copilot.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents
+
+2/ What it does: Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testing approaches. While recent adoptions o…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Turn the method into a narrow workflow copilot.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,08:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：VEXAIoT: Autonomou｜本周最值得产品经理看的研究机会,"📄 今天看的是：VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+operations teams、consultants、SMBs
+
+🛠️ 可以做成什么产品
+Turn the method into a narrow workflow copilot.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by agents workflow, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-13,Monday,8,Scalable Visual Pretraining for Language Intelligence,https://arxiv.org/abs/2607.09657,15:00,Paper #8 worth watching: Scalable Visual Pretraining for Language Intelligence. Founder angle: turn it into turn the method into a narrow workflow copilot.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: Scalable Visual Pretraining for Language Intelligence
+
+2/ What it does: The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, where figures, typeset equations, and pag…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Turn the method into a narrow workflow copilot.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,12:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：Scalable Visual Pr｜本周最值得产品经理看的研究机会,"📄 今天看的是：Scalable Visual Pretraining for Language Intelligence
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+operations teams、consultants、SMBs
+
+🛠️ 可以做成什么产品
+Turn the method into a narrow workflow copilot.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by agents workflow, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-13,Monday,15,Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo,https://arxiv.org/abs/2607.04939,21:00,"Paper #15: Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo. Founder angle: Expose the method as an observability, evaluation, or deployment service.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic","1/ New research with a founder angle: Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo
+
+2/ What it does: Large Language Models (LLMs) unlocked new possibilities in automated code writing, becoming the backbone of most code completion tools. While LLMs excel in mainstream languages, they often lack support for the so-called low-resource langua…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Expose the method as an observability, evaluation, or deployment service.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,21:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：Teaching LLMs a Lo｜本周最值得产品经理看的研究机会,"📄 今天看的是：Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+AI engineers、product teams
+
+🛠️ 可以做成什么产品
+Expose the method as an observability, evaluation, or deployment service.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by infrastructure, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-14,Tuesday,2,LLM for EDA in Front-End Design: Challenges and Opportunities,https://arxiv.org/abs/2607.09616,09:00,Paper #2 worth watching: LLM for EDA in Front-End Design: Challenges and Opportunities. Founder angle: turn it into turn the method into a narrow workflow copilot.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: LLM for EDA in Front-End Design: Challenges and Opportunities
+
+2/ What it does: As chip complexity increases and time-to-market pressures grow, front-end design has become a critical bottleneck in chip development. Recently, Large Language Models (LLMs) have shown great potential in Electronic Design Automation (EDA).…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Turn the method into a narrow workflow copilot.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,08:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：LLM for EDA in Fro｜本周最值得产品经理看的研究机会,"📄 今天看的是：LLM for EDA in Front-End Design: Challenges and Opportunities
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+operations teams、consultants、SMBs
+
+🛠️ 可以做成什么产品
+Turn the method into a narrow workflow copilot.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by agents workflow, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-14,Tuesday,9,ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation,https://arxiv.org/abs/2607.08741,15:00,Paper #9: ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human . Founder angle: Package the capability as a media-processing API and review tool.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation
+
+2/ What it does: Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer precise control via text and kinematic cons…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Package the capability as a media-processing API and review tool.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,12:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：ARDY: Autoregressi｜本周最值得产品经理看的研究机会,"📄 今天看的是：ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+content teams、e-commerce sellers
+
+🛠️ 可以做成什么产品
+Package the capability as a media-processing API and review tool.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by multimodal, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-14,Tuesday,16,Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning,https://arxiv.org/abs/2607.08393,21:00,Paper #16: Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generaliz. Founder angle: Validate one repeatable user job before expanding the product.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning
+
+2/ What it does: Fine-tuning LLMs to inject new knowledge faces a critical challenge: LLMs can quickly memorize new facts, yet fail to use them for downstream reasoning tasks. We formalize this failure as the \textbf{Knowing--Using Gap}, characterized by a…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Validate one repeatable user job before expanding the product.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,21:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：Towards Mechanisti｜本周最值得产品经理看的研究机会,"📄 今天看的是：Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+knowledge workers、small teams
+
+🛠️ 可以做成什么产品
+Validate one repeatable user job before expanding the product.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by general ai, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-15,Wednesday,3,Shared Selective Persistent Memory for Agentic LLM Systems,https://arxiv.org/abs/2607.09493,09:00,Paper #3 worth watching: Shared Selective Persistent Memory for Agentic LLM Systems. Founder angle: turn it into turn the method into a narrow workflow copilot.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: Shared Selective Persistent Memory for Agentic LLM Systems
+
+2/ What it does: Agentic LLM systems that generate code through multi-turn tool use face a fundamental context problem: each session starts from zero, discarding the configuration choices, domain constraints, data schemas, and tool-use patterns that made p…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Turn the method into a narrow workflow copilot.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,08:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：Shared Selective P｜本周最值得产品经理看的研究机会,"📄 今天看的是：Shared Selective Persistent Memory for Agentic LLM Systems
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+operations teams、consultants、SMBs
+
+🛠️ 可以做成什么产品
+Turn the method into a narrow workflow copilot.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by agents workflow, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-15,Wednesday,10,Multimodal Reward Hacking in Reinforcement Learning,https://arxiv.org/abs/2607.09492,15:00,Paper #10 worth watching: Multimodal Reward Hacking in Reinforcement Learning. Founder angle: turn it into package the capability as a media-processing api and review tool.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: Multimodal Reward Hacking in Reinforcement Learning
+
+2/ What it does: Reinforcement learning (RL) is increasingly used to align multimodal large language models (MLLMs), but higher rewards do not always imply better task performance. This risk is amplified when visual evidence is evaluated by text-only or we…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Package the capability as a media-processing API and review tool.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,12:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：Multimodal Reward ｜本周最值得产品经理看的研究机会,"📄 今天看的是：Multimodal Reward Hacking in Reinforcement Learning
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+content teams、e-commerce sellers
+
+🛠️ 可以做成什么产品
+Package the capability as a media-processing API and review tool.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by multimodal, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-15,Wednesday,17,DrugGen 2: A disease-aware language model for enhancing drug discovery,https://arxiv.org/abs/2607.08404,21:00,Paper #17 worth watching: DrugGen 2: A disease-aware language model for enhancing drug discovery. Founder angle: turn it into build a domain-specific assistant with auditable workflows.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: DrugGen 2: A disease-aware language model for enhancing drug discovery
+
+2/ What it does: Current computational approaches for drug design typically focus on generating molecules conditioned on specific targets or general molecular properties, often neglecting the influence of disease context on target behavior and therapeutic…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Build a domain-specific assistant with auditable workflows.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,21:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：DrugGen 2: A disea｜本周最值得产品经理看的研究机会,"📄 今天看的是：DrugGen 2: A disease-aware language model for enhancing drug discovery
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+domain professionals、specialist firms
+
+🛠️ 可以做成什么产品
+Build a domain-specific assistant with auditable workflows.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by vertical ai, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-16,Thursday,4,Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models,https://arxiv.org/abs/2607.09654,09:00,Paper #4: Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language. Founder angle: Package the capability as a media-processing API and review tool.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models
+
+2/ What it does: Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-COCO) that do not showcase complex human interactions or behaviors, only a handful of non-…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Package the capability as a media-processing API and review tool.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,08:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：Evolution of Accur｜本周最值得产品经理看的研究机会,"📄 今天看的是：Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+content teams、e-commerce sellers
+
+🛠️ 可以做成什么产品
+Package the capability as a media-processing API and review tool.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by multimodal, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-16,Thursday,11,Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation,https://arxiv.org/abs/2607.08758,15:00,"Paper #11: Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Ground. Founder angle: Expose the method as an observability, evaluation, or deployment service.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic","1/ New research with a founder angle: Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation
+
+2/ What it does: Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say little about whether AI systems can follow…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Expose the method as an observability, evaluation, or deployment service.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,12:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：Ideas Have Genomes｜本周最值得产品经理看的研究机会,"📄 今天看的是：Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+AI engineers、product teams
+
+🛠️ 可以做成什么产品
+Expose the method as an observability, evaluation, or deployment service.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by infrastructure, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-16,Thursday,18,TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models,https://arxiv.org/abs/2607.09562,21:00,Paper #18 worth watching: TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models. Founder angle: turn it into build a domain-specific assistant with auditable workflows.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models
+
+2/ What it does: Medical Vision-Language Models (VLMs) exhibit strong zero-shot performance, yet their effectiveness still declines on out-of-distribution (OOD) data due to domain shifts and class bias inherited from large-scale pretraining. Existing few-s…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Build a domain-specific assistant with auditable workflows.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,21:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：TCLA: Training-Fre｜本周最值得产品经理看的研究机会,"📄 今天看的是：TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+domain professionals、specialist firms
+
+🛠️ 可以做成什么产品
+Build a domain-specific assistant with auditable workflows.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by vertical ai, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-17,Friday,5,Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading,https://arxiv.org/abs/2607.08964,09:00,Paper #5: Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Termin. Founder angle: Turn the method into a narrow workflow copilot.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading
+
+2/ What it does: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluated only by their final outcome. This set…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Turn the method into a narrow workflow copilot.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,08:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：Long-Horizon-Termi｜本周最值得产品经理看的研究机会,"📄 今天看的是：Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+operations teams、consultants、SMBs
+
+🛠️ 可以做成什么产品
+Turn the method into a narrow workflow copilot.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by agents workflow, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-17,Friday,12,UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma,https://arxiv.org/abs/2607.06987,15:00,Paper #12: UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stab. Founder angle: Package the capability as a media-processing API and review tool.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma
+
+2/ What it does: Reinforcement learning (RL) has become the standard paradigm for enhancing the complex reasoning capabilities of large language models (LLMs). To achieve sample efficiency, modern RL frameworks rely on importance sampling (IS). However, th…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Package the capability as a media-processing API and review tool.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,12:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：UP: Unbounded Posi｜本周最值得产品经理看的研究机会,"📄 今天看的是：UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+content teams、e-commerce sellers
+
+🛠️ 可以做成什么产品
+Package the capability as a media-processing API and review tool.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by multimodal, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-17,Friday,19,Self-Guided Test-Time Training for Long-Context LLMs,https://arxiv.org/abs/2607.09415,21:00,"Paper #19 worth watching: Self-Guided Test-Time Training for Long-Context LLMs. Founder angle: turn it into expose the method as an observability, evaluation, or deployment service.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic","1/ New research with a founder angle: Self-Guided Test-Time Training for Long-Context LLMs
+
+2/ What it does: Long-context processing has become increasingly important for large language models (LLMs), but simply extending the context window does not guarantee effective utilization of long inputs. As input length grows, accuracy often degrades, in…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Expose the method as an observability, evaluation, or deployment service.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,21:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：Self-Guided Test-T｜本周最值得产品经理看的研究机会,"📄 今天看的是：Self-Guided Test-Time Training for Long-Context LLMs
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+AI engineers、product teams
+
+🛠️ 可以做成什么产品
+Expose the method as an observability, evaluation, or deployment service.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by infrastructure, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-18,Saturday,6,CausalDS: Benchmarking Causal Reasoning in Data-Science Agents,https://arxiv.org/abs/2607.08093,09:00,Paper #6 worth watching: CausalDS: Benchmarking Causal Reasoning in Data-Science Agents. Founder angle: turn it into turn the method into a narrow workflow copilot.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: CausalDS: Benchmarking Causal Reasoning in Data-Science Agents
+
+2/ What it does: Large language models (LLMs) increasingly act as integrated data-science agents, combining abstract reasoning with advanced tool use. Yet the relevant benchmark landscape largely divides into symbolic causal reasoning benchmarks without re…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Turn the method into a narrow workflow copilot.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,08:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：CausalDS: Benchmar｜本周最值得产品经理看的研究机会,"📄 今天看的是：CausalDS: Benchmarking Causal Reasoning in Data-Science Agents
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+operations teams、consultants、SMBs
+
+🛠️ 可以做成什么产品
+Turn the method into a narrow workflow copilot.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by agents workflow, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-18,Saturday,13,KronQ: LLM Quantization via Kronecker-Factored Hessian,https://arxiv.org/abs/2607.07964,15:00,Paper #13 worth watching: KronQ: LLM Quantization via Kronecker-Factored Hessian. Founder angle: turn it into validate one repeatable user job before expanding the product.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: KronQ: LLM Quantization via Kronecker-Factored Hessian
+
+2/ What it does: Post-training quantization (PTQ) is a widely adopted technique for compressing large language models (LLMs) without retraining. Existing second-order PTQ methods, including GPTQ, construct quantization objectives exclusively from input act…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Validate one repeatable user job before expanding the product.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,12:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：KronQ: LLM Quantiz｜本周最值得产品经理看的研究机会,"📄 今天看的是：KronQ: LLM Quantization via Kronecker-Factored Hessian
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+knowledge workers、small teams
+
+🛠️ 可以做成什么产品
+Validate one repeatable user job before expanding the product.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by general ai, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-18,Saturday,20,Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition,https://arxiv.org/abs/2601.16211,21:00,Paper #20: Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Comp. Founder angle: Validate one repeatable user job before expanding the product.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition
+
+2/ What it does: Zero-Shot Compositional Action Recognition (ZS-CAR) requires recognizing novel verb-object combinations composed of previously observed primitives. In this work, we tackle a key failure mode: models predict verbs via object-driven shortcut…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Validate one repeatable user job before expanding the product.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,21:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：Why Can't I Open M｜本周最值得产品经理看的研究机会,"📄 今天看的是：Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+knowledge workers、small teams
+
+🛠️ 可以做成什么产品
+Validate one repeatable user job before expanding the product.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by general ai, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-19,Sunday,7,UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks,https://arxiv.org/abs/2607.08768,09:00,Paper #7 worth watching: UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks. Founder angle: turn it into turn the method into a narrow workflow copilot.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks
+
+2/ What it does: The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing ben…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Turn the method into a narrow workflow copilot.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,08:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：UniClawBench: A Un｜本周最值得产品经理看的研究机会,"📄 今天看的是：UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+operations teams、consultants、SMBs
+
+🛠️ 可以做成什么产品
+Turn the method into a narrow workflow copilot.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by agents workflow, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-19,Sunday,14,OpenCoF: Learning to Reason Through Video Generation,https://arxiv.org/abs/2607.08763,15:00,Paper #14 worth watching: OpenCoF: Learning to Reason Through Video Generation. Founder angle: turn it into package the capability as a media-processing api and review tool.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: OpenCoF: Learning to Reason Through Video Generation
+
+2/ What it does: Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): re…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Package the capability as a media-processing API and review tool.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,12:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：OpenCoF: Learning ｜本周最值得产品经理看的研究机会,"📄 今天看的是：OpenCoF: Learning to Reason Through Video Generation
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+content teams、e-commerce sellers
+
+🛠️ 可以做成什么产品
+Package the capability as a media-processing API and review tool.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by multimodal, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
+2026-07-19,Sunday,21,Robustifying Vision-Language Models via Test-Time Prompt Adaptation,https://arxiv.org/abs/2607.09450,21:00,Paper #21 worth watching: Robustifying Vision-Language Models via Test-Time Prompt Adaptation. Founder angle: turn it into validate one repeatable user job before expanding the product.. Validate one painful use case first. #AIResearch #IndieHackers #BuildInPublic,"1/ New research with a founder angle: Robustifying Vision-Language Models via Test-Time Prompt Adaptation
+
+2/ What it does: Pre-trained Vision-Language Models (VLMs) such as CLIP achieve strong zero-shot generalization, but their performance degrades sharply under adversarial perturbations. Existing test-time adaptation methods typically rely on sample-level co…
+
+3/ Why it matters: It may reduce the cost or complexity of a repeatable user task.
+
+4/ Product opportunity: Validate one repeatable user job before expanding the product.
+
+5/ Solo-founder MVP: test one user, one input, and one measurable output in two weeks.
+
+6/ Risk and takeaway: The research result may not transfer to real customer data; validate quality and cost early. Start with evidence, not hype.",#AIResearch #IndieHackers #BuildInPublic,21:30,这篇论文可能藏着一个小而美 SaaS 机会｜一个人也能验证的 AI 产品方向：Robustifying Visio｜本周最值得产品经理看的研究机会,"📄 今天看的是：Robustifying Vision-Language Models via Test-Time Prompt Adaptation
+
+✨ 为什么值得关注
+It may reduce the cost or complexity of a repeatable user task.
+
+👥 适合谁
+knowledge workers、small teams
+
+🛠️ 可以做成什么产品
+Validate one repeatable user job before expanding the product.
+
+⚠️ 别急着追热点：The research result may not transfer to real customer data; validate quality and cost early.",#AI创业 #独立开发 #论文商业化 #效率工具,"Clean editorial tech cover, modern startup product mood, subtle data visualization, concept inspired by general ai, futuristic but not sci-fi, blue and warm orange accents, generous whitespace, no text, vertical 3:4 composition"
